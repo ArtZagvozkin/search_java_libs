@@ -1,0 +1,1594 @@
+1;antlr.antlr;antlr;ANTLR - фреймворк для создания компиляторов и интерпретаторов языков программирования
+2;aopalliance.aopalliance;aopalliance;AOP Alliance - набор интерфейсов для работы с аспектно-ориентированным программированием в Java
+3;ar.com.hjg.pngj;pngj;pngj - библиотека для работы с форматом PNG в Java
+4;asm.asm;asm;ASM - библиотека для модификации байт-кода классов Java во время выполнения
+5;asm.asm-commons;asm-commons;вспомогательные классы для ASM
+6;asm.asm-parent;asm-parent;родительский pom-модуль для ASM
+7;asm.asm-tree;asm-tree;библиотека для парсинга и манипуляции с деревом класса ASM
+8;avalon-framework.avalon-framework;avalon-framework;Avalon - компонентная модель для разработки enterprise приложений на Java
+9;backport-util-concurrent.backport-util-concurrent;backport-util-concurrent;реализация коллекций java.util.concurrent для старых версий Java
+10;biz.aQute.bnd.biz.aQute.bndlib;biz.aQute.bndlib;Bndlib - библиотека для создания OSGibundles из jar файлов в Maven и Gradle
+11;biz.aQute.bndlib;bndlib;Bndlib - библиотека для создания OSGibundles из jar файлов в Maven и Gradle
+12;bsh.bsh;bsh;bsh (Bean Scripting Framework) - предназначена для интерпретации скриптов на различных языках программирования (Java, JavaScript, Python и др.) непосредственно в Java-приложении
+13;c3p0.c3p0;c3p0;библиотека для управления пулами соединений с СУБД
+14;cglib.cglib-nodep;cglib-nodep;библиотека для генерации динамических подклассов
+15;ch.qos.cal10n.cal10n-api;cal10n-api;Cal10n - Java библиотека для интернационализации
+16;ch.qos.cal10n.cal10n-parent;cal10n-parent;родительский pom модуль Cal10n
+17;classworlds.classworlds;classworlds;ClassWorlds - загрузчик классов и модулей OSGi
+18;com.amazonaws.aws-java-sdk-core;aws-java-sdk-core;ядро SDK AWS Java
+19;com.amazonaws.aws-java-sdk-kms;aws-java-sdk-kms;SDK для работы с AWS KMS
+20;com.amazonaws.aws-java-sdk-pom;aws-java-sdk-pom;родительский POM модуль SDK AWS Java
+21;com.amazonaws.aws-java-sdk-s3;aws-java-sdk-s3;SDK для работы с AWS S3
+22;com.bbn.openmap;openmap;OpenMap - система работы с геопространственными данными
+23;com.bea.commonj.com.springsource.commonj;com.springsource.commonj;CommonJ - спецификации для взаимодействия с серверами приложений
+24;com.beust.jcommander;jcommander;парсер командной строки для Java
+25;com.catalysoft.swing.unicode.unicode_panel;unicode_panel;Swing компонент для отображения Юникод символов
+26;com.fasterxml.classmate;classmate;класс для работы с типами Java при десериализации Jackson
+27;com.fasterxml.jackson.core.jackson-annotations;jackson-annotations;аннотации модуля Jackson
+28;com.fasterxml.jackson.core.jackson-core;jackson-core;ядро библиотеки Jackson для сериализации в JSON
+29;com.fasterxml.jackson.core.jackson-databind;jackson-databind;связывание объектов Java и JSON модуля Jackson
+30;com.fasterxml.jackson.jackson-parent;jackson-parent;родительский POM модуль Jackson
+31;com.fasterxml.jackson.jaxrs.jackson-jaxrs-base;jackson-jaxrs-base;базовый интерфейс Jackson для JAX-RS
+32;com.fasterxml.jackson.jaxrs.jackson-jaxrs-cbor-provider;jackson-jaxrs-cbor-provider;модуль Jackson для работы с CBOR в JAX-RS
+33;com.fasterxml.jackson.jaxrs.jackson-jaxrs-json-provider;jackson-jaxrs-json-provider;модуль Jackson для работы с JSON в JAX-RS
+34;com.fasterxml.jackson.jaxrs.jackson-jaxrs-providers;jackson-jaxrs-providers;основные провайдеры Jackson для JAX-RS
+35;com.fasterxml.jackson.jaxrs.jackson-jaxrs-smile-provider;jackson-jaxrs-smile-provider;модуль Jackson для работы с SMILE в JAX-RS
+36;com.fasterxml.jackson.jaxrs.jackson-jaxrs-xml-provider;jackson-jaxrs-xml-provider;модуль Jackson для работы с XML в JAX-RS
+37;com.fasterxml.jackson.module.jackson-module-jaxb-annotations;jackson-module-jaxb-annotations;модуль интеграции Jackson и JAXB
+38;com.fasterxml.oss-parent;oss-parent;родительский POM модуль проектов Apache
+39;com.github.fommil.jniloader;jniloader;загрузчик native библиотек для Java
+40;com.github.fommil.netlib.core;core;ядро численных библиотек Netlib
+41;com.github.haifengl.smile-core;smile-core;одномерные матрицы Smile
+42;com.github.haifengl.smile-data;smile-data;структуры данных Smile
+43;com.github.haifengl.smile-graph;smile-graph;графовая библиотека Smile
+44;com.github.haifengl.smile-math;smile-math;математические операции Smile
+45;com.github.jeremysolarz.bootstrap-connector;bootstrap-connector;компоненты для подключения Java к базам данных
+46;com.github.os72.protoc-jar;protoc-jar;генератор кода из .proto файлов Protocol Buffers
+47;com.github.os72.protoc-jar-maven-plugin;protoc-jar-maven-plugin;Maven плагин для protoc-jar
+48;com.github.rwl.jtransforms;jtransforms;быстрое выполнение преобразований Фурье
+49;com.github.sarxos.oss-parent;oss-parent;родительский POM проектов sarxos
+50;com.github.sarxos.webcam-capture;webcam-capture;каптюр веб-камеры на Java
+51;com.github.sarxos.webcam-capture-parent;webcam-capture-parent;родительский POM webcam-capture
+52;com.goebl.david-webb;david-webb;утилиты для работы с HTTP
+53;com.googlecode.efficient-java-matrix-library.core;core;базовые классы численной библиотеки матриц
+54;com.google.code.findbugs.jsr305;jsr305;стандарт аннотаций для проверки ошибок
+55;com.google.code.gson.gson;gson;библиотека для сериализации Java классов в JSON
+56;com.google.code.gson.gson-parent;gson-parent;родительский POM Gson
+57;com.googlecode.javaewah.JavaEWAH;JavaEWAH;компактные битовые массивы
+58;com.googlecode.json-simple.json-simple;json-simple;простая библиотека JSON для Java
+59;com.googlecode.juniversalchardet.juniversalchardet;juniversalchardet;универсальный детектор кодировок
+60;com.googlecode.matrix-toolkits-java.mtj;mtj;численные методы для работы с матрицами
+61;com.googlecode.netlib-java.netlib-java;netlib-java;численные библиотеки Netlib
+62;com.google.code.typica.typica;typica;математические библиотеки и утилиты
+63;com.google.collections.google-collections;google-collections;коллекции, предшественник Guava
+64;com.google.errorprone.error_prone_annotations;error_prone_annotations;аннотации для проверки ошибок
+65;com.google.errorprone.error_prone_parent;error_prone_parent;родительский POM error_prone
+66;com.google.google;google;родительский POM Google
+67;com.google.guava.failureaccess;failureaccess;доступ к StackTraceElement
+68;com.google.guava.guava;guava;основная библиотека Guava
+69;com.google.guava.guava-parent;guava-parent;родительский POM Guava
+70;com.google.guava.listenablefuture;listenablefuture;асинхронные ListenableFuture
+71;com.google.j2objc.j2objc-annotations;j2objc-annotations;аннотации для j2objc
+72;com.google.protobuf.protobuf-java;protobuf-java;библиотека Protocol Buffers
+73;com.google.protobuf.protobuf-parent;protobuf-parent;родительский POM protobuf
+74;com.h2database.h2;h2;свободная SQL база данных H2
+75;com.hypnoticocelot.jaxrs-doclet;jaxrs-doclet;генерация документации из JAX-RS
+76;com.ibm.icu.icu4j;icu4j;International Components for Unicode
+77;com.ibm.websphere.uow;uow;Java EE интерфейсы управления транзакциями
+78;com.intellij.annotations;annotations;аннотации IDEA для генерации кода
+79;com.jayway.restassured.json-path;json-path;проверки JSON путей
+80;com.jayway.restassured.rest-assured;rest-assured;тестирование REST API
+81;com.jayway.restassured.rest-assured-common;rest-assured-common;общие ресурсы rest-assured
+82;com.jayway.restassured.rest-assured-parent;rest-assured-parent;родительский POM rest-assured
+83;com.jayway.restassured.xml-path;xml-path;проверки XML путей
+84;com.jcraft.jsch;jsch;клиент SSH2 и SFTP для Java
+85;com.jgoodies.looks;looks;стандартные виджеты внешнего вида Look and Feel
+86;com.kohlschutter.junixsocket.junixsocket-common;junixsocket-common;общие классы для работы с Unix доменом sockets
+87;com.kohlschutter.junixsocket.junixsocket-demo;junixsocket-demo;примеры использования junixsocket
+88;com.kohlschutter.junixsocket.junixsocket-mysql;junixsocket-mysql;коннектор junixsocket для MySQL
+89;com.kohlschutter.junixsocket.junixsocket-native;junixsocket-native;native библиотека sockets
+90;com.kohlschutter.junixsocket.junixsocket-native-common;junixsocket-native-common;общие классы native библиотеки
+91;com.kohlschutter.junixsocket.junixsocket-parent;junixsocket-parent;родительский POM junixsocket
+92;com.kohlschutter.junixsocket.junixsocket-rmi;junixsocket-rmi;RMI провайдер на основе sockets
+93;com.kohlschutter.kohlschutter-parent;kohlschutter-parent;родительский POM проектов Kohlschutter
+94;com.lowagie.itext;itext;библиотека для работы с PDF
+95;com.miglayout.miglayout;miglayout;Layouter для GUI составных компонентов
+96;com.miglayout.miglayout-core;miglayout-core;ядро MigLayout
+97;com.miglayout.miglayout-parent;miglayout-parent;родительский POM MigLayout
+98;com.miglayout.miglayout-swing;miglayout-swing;интеграция MigLayout со Swing
+99;com.mockrunner.mockrunner;mockrunner;тестовый двойник для J2EE компонентов
+100;commons-beanutils.commons-beanutils;commons-beanutils;утилиты конвертации Bean
+101;commons-chain.commons-chain;commons-chain;цепочка обработчиков запросов
+102;commons-cli.commons-cli;commons-cli;парсер командной строки
+103;commons-codec.commons-codec;commons-codec;кодирование бинарных данных
+104;commons-collections.commons-collections;commons-collections;коллекции до Java 5.0
+105;commons-dbcp.commons-dbcp;commons-dbcp;пул соединений с базами данных
+106;commons-digester.commons-digester;commons-digester;парсер XML в объекты
+107;commons-discovery.commons-discovery;commons-discovery;инфраструктура для открытия сервисов
+108;commons-fileupload.commons-fileupload;commons-fileupload;загрузка файлов
+109;commons-httpclient.commons-httpclient;commons-httpclient;HTTP-клиент
+110;commons-io.commons-io;commons-io;вход выход потоков
+111;commons-jxpath.commons-jxpath;commons-jxpath;XPath для Java объектов
+112;commons-lang.commons-lang;commons-lang;утилиты работы со строками и объектами
+113;commons-logging.commons-logging;commons-logging;логирование
+114;commons-logging.commons-logging-api;commons-logging-api;API логирования
+115;commons-math.commons-math;commons-math;математические функции
+116;commons-net.commons-net;commons-net;работа по сети
+117;commons-pool.commons-pool;commons-pool;пул объектов
+118;commons-validator.commons-validator;commons-validator;валидация полей
+119;com.nativelibs4java.bridj;bridj;вызов native функций
+120;com.nativelibs4java.nativelibs4java-parent;nativelibs4java-parent;родитель POM nativelibs4java
+121;com.ning.async-http-client;async-http-client;асинхронный HTTP клиент
+122;com.noelios.restlet.com.noelios.restlet;com.noelios.restlet;REST API фреймворк Restlet
+123;com.noelios.restlet.com.noelios.restlet.ext.servlet;com.noelios.restlet.ext.servlet;интеграция Restlet со Servlet
+124;com.noelios.restlet.com.noelios.restlet.ext.simple;com.noelios.restlet.ext.simple;простой JSON/XML конвертер Restlet
+125;com.sleepycat.je;je;Berkeley DB Java Edition
+126;com.sun.activation.all;all;рамка активации данных
+127;com.sun.faces.jsf-impl;jsf-impl;реализация JSF
+128;com.sun.istack.istack-commons;istack-commons;инфраструктура ошибок
+129;com.sun.istack.istack-commons-runtime;istack-commons-runtime;инфраструктура ошибок в runtime
+130;com.sun.jna.jna;jna;вызов native функций
+131;com.sun.media.clibwrapper_jiio;clibwrapper_jiio;ввод-вывод медиа
+132;com.sun.org.apache.xml.internal.resolver;resolver;XML каталог ресурсов
+133;com.sun.xml.bind.jaxb-bom-ext;jaxb-bom-ext;Maven модуль JAXB
+134;com.sun.xml.bind.jaxb-core;jaxb-core;ядро JAXB
+135;com.sun.xml.bind.jaxb-impl;jaxb-impl;реализация JAXB
+136;com.sun.xml.bind.jaxb-xjc;jaxb-xjc;компилятор схем в классы
+137;com.sun.xml.bind.mvn.jaxb-bundles;jaxb-bundles;Maven модули JAXB bundle
+138;com.sun.xml.bind.mvn.jaxb-parent;jaxb-parent;родительский POM JAXB
+139;com.thoughtworks.qdox.qdox;qdox;парсер Java файлов в метаданные
+140;com.thoughtworks.xstream.xstream;xstream;библиотека сериализации объектов в XML
+141;com.thoughtworks.xstream.xstream-parent;xstream-parent;родительский POM XStream
+142;com.toedter.jcalendar;jcalendar;календарный компонент для Swing
+143;com.vividsolutions.jts;jts;геометрические операции с векторной графикой
+144;com.vividsolutions.jts-core;jts-core;ядро JTS
+145;com.vividsolutions.jts-io;jts-io;форматы ввода-вывода JTS
+146;com.vividsolutions.jts-parent;jts-parent;родительский POM JTS
+147;de.grundid.opendatalab.geojson-jackson;geojson-jackson;Jackson модуль для GeoJSON
+148;de.micromata.jak.JavaAPIforKml;JavaAPIforKml;парсер файлов KML
+149;de.zeigermann.xml.xml-im-exporter;xml-im-exporter;экспорт моделей XML
+150;dom4j.dom4j;dom4j;библиотека манипуляции DOM XML
+151;doxia.doxia-sink-api;doxia-sink-api;API вставки контента Docia
+152;edu.stanford.smi.protege.protege;protege;редактор онтологий Protege
+153;edu.stanford.smi.protegex.standard_extensions.JGo;JGo;плагин Protege на GO
+154;edu.stanford.smi.protegex.standard_extensions.JGoLayout;JGoLayout;layouter Protege GO
+155;edu.ucar.bufr;bufr;формат обмена метеоданных BUFR
+156;edu.ucar.cdm;cdm;доступ к климатическим данным
+157;edu.ucar.httpservices;httpservices;веб-сервисы UCAR
+158;edu.ucar.netcdf;netcdf;доступ к данным формата netCDF
+159;edu.ucar.netcdf4;netcdf4;доступ к netCDF версии 4
+160;edu.ucar.netcdf-parent;netcdf-parent;родительский POM
+161;edu.ucar.opendap;opendap;доступ к OPeNDAP данным
+162;edu.ucar.thredds-parent;thredds-parent;родительский POM Thredds
+163;edu.ucar.udunits;udunits;библиотека для работы с единицами измерений
+164;edu.ucla.cs.compilers.jtb;jtb;компилятор Java на основе JavaCC
+165;geronimo-spec.geronimo-spec-jta;geronimo-spec-jta;спецификация Java Transaction API
+166;gnu.io.RXTXcomm;RXTXcomm;драйверы устройств под Windows, Linux и MacOS
+167;gov.nasa.worldwind;worldwind;SDK 3D глобуса WorldWind
+168;gov.nasa.worldwind-aggregator;worldwind-aggregator;агрегатор источников данных WorldWind
+169;gov.nasa.worldwindx;worldwindx;расширения SDK WorldWind
+170;gov.nist.math.jama;jama;численные методы линейной алгебры
+171;io.netty.netty;netty;синхронная сетевая платформа Netty
+172;io.netty.netty-all;netty-all;все модули Netty
+173;io.netty.netty-buffer;netty-buffer;буферизация Netty
+174;io.netty.netty-codec;netty-codec;кодирование/декодирование Netty
+175;io.netty.netty-common;netty-common;общие ресурсы Netty
+176;io.netty.netty-parent;netty-parent;родительский POM Netty
+177;io.netty.netty-transport;netty-transport;транспорты Netty
+178;io.undertow.undertow-core;undertow-core;ядро веб сервера Undertow
+179;io.undertow.undertow-parent;undertow-parent;родительский POM Undertow
+180;it.geosolutions.geoserver-manager;geoserver-manager;менеджер конфигурации GeoServer
+181;it.geosolutions.imageio-ext.imageio-ext;imageio-ext;расширения ImageIO
+182;it.geosolutions.imageio-ext.imageio-ext-arcgrid;imageio-ext-arcgrid;поддержка формата Arc/Info Grid
+183;it.geosolutions.imageio-ext.imageio-ext-gdalarcbinarygrid;imageio-ext-gdalarcbinarygrid;формат Arc/Info Binary Grid GDAL
+184;it.geosolutions.imageio-ext.imageio-ext-gdalarcgrid;imageio-ext-gdalarcgrid;формат Arc/Info Grid GDAL
+185;it.geosolutions.imageio-ext.imageio-ext-gdalbsb;imageio-ext-gdalbsb;формат BSB GDAL
+186;it.geosolutions.imageio-ext.imageio-ext-gdaldoq1;imageio-ext-gdaldoq1;формат DOQ1 GDAL
+187;it.geosolutions.imageio-ext.imageio-ext-gdaldoq2;imageio-ext-gdaldoq2;формат DOQ2 GDAL
+188;it.geosolutions.imageio-ext.imageio-ext-gdaldted;imageio-ext-gdaldted;формат DTED GDAL
+189;it.geosolutions.imageio-ext.imageio-ext-gdalecw;imageio-ext-gdalecw;формат ECW GDAL
+190;it.geosolutions.imageio-ext.imageio-ext-gdalecwjp2;imageio-ext-gdalecwjp2;формат ECW/JP2 GDAL и т.д. - модули поддержки различных форматов растровых данных в ImageIO
+191;it.geosolutions.jaiext.affine.jt-affine;jt-affine;аффинные трансформации
+192;it.geosolutions.jaiext.algebra.jt-algebra;jt-algebra;алгебраические операции
+193;it.geosolutions.jaiext.bandcombine.jt-bandcombine;jt-bandcombine;комбинация банд
+194;it.geosolutions.jaiext.bandmerge.jt-bandmerge;jt-bandmerge;объединение банд
+195;it.geosolutions.jaiext.bandselect.jt-bandselect;jt-bandselect;выбор банд
+196;it.geosolutions.jaiext.binarize.jt-binarize;jt-binarize;бинаризация
+197;it.geosolutions.jaiext.border.jt-border;jt-border;добавление границы
+198;it.geosolutions.jaiext.buffer.jt-buffer;jt-buffer;буферизация
+199;it.geosolutions.jaiext.classifier.jt-classifier;jt-classifier;классификация
+200;it.geosolutions.jaiext.colorconvert.jt-colorconvert;jt-colorconvert;конвертация цвета
+201;it.geosolutions.jaiext.colorindexer.jt-colorindexer;jt-colorindexer;индексирование цвета
+202;it.geosolutions.jaiext.crop.jt-crop;jt-crop;обрезка
+203;it.geosolutions.jaiext.errordiffusion.jt-errordiffusion;jt-errordiffusion;Diffusion ошибок
+204;it.geosolutions.jaiext.format.jt-format;jt-format;форматы
+205;it.geosolutions.jaiext.imagefunction.jt-imagefunction;jt-imagefunction;функции над изображениями
+206;it.geosolutions.jaiext.iterators.jt-iterators;jt-iterators;итераторы
+207;it.geosolutions.jaiext.jaiext;jaiext;ядро библиотеки JAI Ext
+208;it.geosolutions.jaiext.lookup.jt-lookup;jt-lookup;lookups
+209;it.geosolutions.jaiext.mosaic.jt-mosaic;jt-mosaic;мозаика
+210;it.geosolutions.jaiext.nullop.jt-nullop;jt-nullop;пустая операция
+211;it.geosolutions.jaiext.orderdither.jt-orderdither;jt-orderdither;упорядоченная диффузия
+212;it.geosolutions.jaiext.piecewise.jt-piecewise;jt-piecewise;пошаговые функции
+213;it.geosolutions.jaiext.rescale.jt-rescale;jt-rescale;масштабирование
+214;it.geosolutions.jaiext.rlookup.jt-rlookup;jt-rlookup;обратный lookups
+215;it.geosolutions.jaiext.scale.jt-scale;jt-scale;масштаб
+216;it.geosolutions.jaiext.scheduler.jt-scheduler;jt-scheduler;планировщик
+217;it.geosolutions.jaiext.stats.jt-stats;jt-stats;статистика
+218;it.geosolutions.jaiext.translate.jt-translate;jt-translate;перемещение
+219;it.geosolutions.jaiext.utilities.jt-utilities;jt-utilities;утилиты
+220;it.geosolutions.jaiext.vectorbin.jt-vectorbin;jt-vectorbin;векторная бинаризация
+221;it.geosolutions.jaiext.warp.jt-warp;jt-warp;искажение
+222;it.geosolutions.jaiext.zonal.jt-zonal;jt-zonal;зональный анализ
+223;java3d.vecmath;vecmath;библиотека векторных операций Java 3D
+224;javassist.javassist;javassist;библиотека для инструментирования классов Java
+225;javax.activation.activation;activation;инфраструктура активации данных
+226;javax.activation.javax.activation-api;javax.activation-api;API активации данных
+227;javax.annotation.javax.annotation-api;javax.annotation-api;API аннотаций Java
+228;javax.annotation.jsr250-api;jsr250-api;API стандартных аннотаций
+229;javax.comm.comm;comm;интерфейсы JavaComm
+230;javax.enterprise.cdi-api;cdi-api;API CDI (Context and Dependency Injection)
+231;javax.help.javahelp;javahelp;система оказания помощи Java
+232;javax.inject.javax.inject;javax.inject;модуль инъекции зависимостей DI
+233;javax.javaee-web-api;javaee-web-api;API веб-компонентов Java EE
+234;javax.mail.mail;mail;API работы с электронной почтой
+235;javax.media.jai_codec;jai_codec;кодеки Java Advanced Imaging
+236;javax.media.jai_core;jai_core;ядро библиотеки Java Advanced Imaging
+237;javax.media.jai_imageio;jai_imageio;ImageIO для JAI
+238;javax.servlet.javax.servlet-api;javax.servlet-api;API сервлетов
+239;javax.servlet.servlet-api;servlet-api;API сервлетов
+240;javax.validation.validation-api;validation-api;API валидации
+241;javax.ws.rs.javax.ws.rs-api;javax.ws.rs-api;JAX-RS API
+242;javax.xml.bind.jaxb-api;jaxb-api;API языка описания схем JAXB
+243;javax.xml.bind.jaxb-api-parent;jaxb-api-parent;модуль jaxb-api
+244;javax.xml.bind.jsr173_api;jsr173_api;API пакета jaxb 1.0
+245;javax.xml.jsr173;jsr173;спецификации JAXB
+246;javax.xml.stream.stax-api;stax-api;API парсинга XML стримов
+247;jaxen.jaxen;jaxen;XPath для Java
+248;jboss.jbossws.jboss-jaxrpc;jboss-jaxrpc;реализация JAX-RPC для JBoss
+249;jdom.jdom;jdom;DOM-подобная библиотека работы с XML
+250;jfree.jcommon;jcommon;общие компоненты JFreeChart
+251;jfree.jfreechart;jfreechart;библиотека построения диаграмм
+252;jgridshift.jgridshift;jgridshift;преобразования гратических сеток
+253;jline.jline;jline;библиотека работы с консолью
+254;joda-time.joda-time;joda-time;библиотека работы с датой и временем
+255;jogl.jogl;jogl;OpenGL для Java
+256;junit.junit;junit;фреймворк для тестирования
+257;log4j.log4j;log4j;популярный логгер для Java
+258;logkit.logkit;logkit;набор классов для логирования
+259;mysql.mysql-connector-java;mysql-connector-java;JDBC драйвер для MySQL
+260;net.coderazzi.tablefilter-swing;tablefilter-swing;фильтрация таблиц Swing
+261;net.coobird.thumbnailator;thumbnailator;генерация миниатюр изображений
+262;net.java.dev.glazedlists.glazedlists_java15;glazedlists_java15;списки для Java 1.5
+263;net.java.dev.javacc.javacc;javacc;компилятор JavaCC
+264;net.java.dev.jna.jna;jna;интерфейс доступа к native-коду
+265;net.java.dev.jna.jna-platform;jna-platform;
+266;net.java.dev.jsr-275.jsr-275;jsr-275;спецификация языковых ресурсов
+267;net.java.jvnet-parent;jvnet-parent;родительский модуль Java.net
+268;net.jcip.jcip-annotations;jcip-annotations;аннотации паттернов параллельного программирования
+269;net.lingala.zip4j.zip4j;zip4j;API работы с ZIP-архивами
+270;net.objecthunter.exp4j;exp4j;парсер математических выражений
+271;net.sf.ehcache.ehcache;ehcache;кеширующий HTTP-сервис
+272;net.sf.ehcache.ehcache-core;ehcache-core;ядро Ehcache
+273;net.sf.ehcache.ehcache-parent;ehcache-parent;модуль Ehcache
+274;net.sf.ezmorph.ezmorph;ezmorph;библиотека копирования объектов
+275;net.sf.geographiclib.GeographicLib-Java;GeographicLib-Java;геопространственные вычисления
+276;net.sf.json-lib.json-lib;json-lib;библиотека сериализации в JSON
+277;net.sf.jtidy.jtidy.r938.jtidy-r938.pom;jtidy-r938.pom;парсер HTML Tidy
+278;net.sf.opencsv.opencsv;opencsv;CSV парсер
+279;net.sf.supercsv.super-csv;super-csv;CVS процессор
+280;net.sf.supercsv.super-csv-distribution;super-csv-distribution;распространение Super CSV
+281;net.sf.supercsv.super-csv-dozer;super-csv-dozer;интеграция Super CSV и Dozer
+282;net.sf.supercsv.super-csv-parent;super-csv-parent;модуль Super CSV
+283;net.sourceforge.cobertura.cobertura;cobertura;инструмент отслеживания покрытия тестами
+284;net.sourceforge.cobertura.cobertura-runtime;cobertura-runtime;runtime Cobertura
+285;net.sourceforge.cssparser.cssparser;cssparser;парсер CSS
+286;net.sourceforge.f2j.arpack_combined_all;arpack_combined_all;численные методы линейной алгебры
+287;net.sourceforge.hatbox.hatbox;hatbox;классификатор текстов на языках
+288;net.sourceforge.htmlcleaner.htmlcleaner;htmlcleaner;парсер HTML
+289;org.apache.maven.shared.maven-dependency-tree;maven-dependency-tree;модуль отображения дерева зависимостей Maven
+290;org.apache.maven.shared.maven-dependency-tree;maven-dependency-tree;другая версия модуля Maven
+291;org.apache.ant.ant;ant;система сборки Apache Ant
+292;org.apache.ant.ant-init;ant-init;инициализация Ant
+293;org.apache.ant.ant-launcher;ant-launcher;запуск Ant
+294;org.apache.ant.ant-parent;ant-parent;родительский модуль Ant
+295;org.apache.apache;apache;родительский модуль Apache
+296;org.apache.aries.blueprint.org.apache.aries.blueprint.api;org.apache.aries.blueprint.api;API OSGi блюпринтов Aries
+297;org.apache.aries.blueprint.org.apache.aries.blueprint.cm;org.apache.aries.blueprint.cm;управление жизненным циклом
+298;org.apache.aries.blueprint.org.apache.aries.blueprint.core;org.apache.aries.blueprint.core;ядро Aries blueprint
+299;org.apache.aries.default-parent;default-parent;родительский модуль Aries
+300;org.apache.aries.java5-parent;java5-parent;родитель POM для Java 5
+301;org.apache.aries.org.apache.aries.util;org.apache.aries.util;вспомогательные классы Aries
+302;org.apache.aries.parent;parent;родительский модуль Aries
+303;org.apache.aries.proxy.org.apache.aries.proxy.api;org.apache.aries.proxy.api;API проксирования Aries
+304;org.apache.aries.proxy.org.apache.aries.proxy.impl;org.apache.aries.proxy.impl;реализация прокси Aries
+305;org.apache.aries.quiesce.org.apache.aries.quiesce.api;org.apache.aries.quiesce.api;API управления остановкой сервисов
+306;org.apache.avalon.avalon-framework;avalon-framework;компонентная модель Avalon
+307;org.apache.avalon.framework.avalon-framework-api;avalon-framework-api;API Avalon
+308;org.apache.avalon.framework.avalon-framework-impl;avalon-framework-impl;реализация Avalon
+309;org.apache.avro.avro;avro;фреймворк Apache Avro
+310;org.apache.avro.avro-parent;avro-parent;родительский POM Avro
+311;org.apache.avro.avro-toplevel;avro-toplevel;верхний уровень Avro
+312;org.apache.axis.axis;axis;веб-сервисы Axis
+313;org.apache.camel.camel;camel;EIP реализация Camel
+314;org.apache.camel.camel-blueprint;camel-blueprint;интеграция Camel с OSGi
+315;org.apache.camel.camel-core;camel-core;ядро Camel
+316;org.apache.camel.camel-core-osgi;camel-core-osgi;OSGi адаптер Camel
+317;org.apache.camel.camel-core-xml;camel-core-xml;XML конфигурация Camel
+318;org.apache.camel.camel-ejb;camel-ejb;интеграция Camel с EJB
+319;org.apache.camel.camel-ftp;camel-ftp;компонент FTP Camel
+320;org.apache.camel.camel-http;camel-http;компонент HTTP Camel
+321;org.apache.camel.camel-http4;camel-http4;HTTP4 компонент Camel
+322;org.apache.camel.camel-http-common;camel-http-common;общий HTTP компонент Camel
+323;org.apache.camel.camel-mina2;camel-mina2;кампонент Camel на основе MINA
+324;org.apache.camel.camel-netty;camel-netty;компонент Netty Camel
+325;org.apache.camel.camel-netty4;camel-netty4;Netty 4 компонент Camel
+326;org.apache.camel.camel-netty4-http;camel-netty4-http;HTTP на Netty4 в Camel
+327;org.apache.camel.camel-parent;camel-parent;родительский модуль Camel
+328;org.apache.camel.camel-test;camel-test;тестовый фреймворк Camel
+329;org.apache.camel.camel-test-blueprint;camel-test-blueprint;тесты с blueprints Camel
+330;org.apache.camel.components;components;дополнительные компоненты Camel
+331;org.apache.commons.commons-compress;commons-compress;архивация и декомпрессия
+332;org.apache.commons.commons-io;commons-io;ввод-вывод
+333;org.apache.commons.commons-lang3;commons-lang3;утилиты для работы со строками
+334;org.apache.commons.commons-math3;commons-math3;математические функции
+335;org.apache.commons.commons-parent;commons-parent;родительский модуль Commons
+336;org.apache.directory.project.project;project;модуль Apache Directory Server
+337;org.apache.directory.server.apacheds-all;apacheds-all;все модули ADS
+338;org.apache.directory.server.apacheds-bootstrap-extract;apacheds-bootstrap-extract;основные классы ADS
+339;org.apache.directory.server.apacheds-bootstrap-partition;apacheds-bootstrap-partition;инициализация партиций ADS
+340;org.apache.directory.server.apacheds-bootstrap-plugin;apacheds-bootstrap-plugin;плагины запуска ADS
+341;org.apache.directory.server.apacheds-core;apacheds-core;ядро ADS
+342;org.apache.directory.server.apacheds-core-avl;apacheds-core-avl;AVL деревья ADS
+343;org.apache.directory.server.apacheds-core-constants;apacheds-core-constants;константы ADS
+344;org.apache.directory.server.apacheds-core-entry;apacheds-core-entry;записи ADS
+345;org.apache.directory.server.apacheds-core-integ;apacheds-core-integ;интеграционные тесты ADS
+346;org.apache.directory.server.apacheds-core-jndi;apacheds-core-jndi;JNDI provider ADS
+347;org.apache.directory.server.apacheds-core-plugin;apacheds-core-plugin;плагинный интерфейс ADS
+348;org.apache.directory.server.apacheds-core-shared;apacheds-core-shared;общие ресурсы ADS
+349;org.apache.directory.server.apacheds-core-unit;apacheds-core-unit;унит-тесты ADS
+350;org.apache.directory.server.apacheds-interceptor-kerberos;apacheds-interceptor-kerberos;перехватчик Kerberos ADS
+351;org.apache.directory.server.apacheds-jdbm;apacheds-jdbm;backing store JDBM
+352;org.apache.directory.server.apacheds-jdbm-store;apacheds-jdbm-store;хранилище JDBM
+353;org.apache.directory.server.apacheds-kerberos-shared;apacheds-kerberos-shared;общие классы Kerberos
+354;org.apache.directory.server.apacheds-parent;apacheds-parent;родительский модуль ADS
+355;org.apache.directory.server.apacheds-protocol-changepw;apacheds-protocol-changepw;протокол смены пароля
+356;org.apache.directory.server.apacheds-protocol-dhcp;apacheds-protocol-dhcp;протокол DHCP
+357;org.apache.directory.server.apacheds-protocol-dns;apacheds-protocol-dns;протокол DNS
+358;org.apache.directory.server.apacheds-protocol-kerberos;apacheds-protocol-kerberos;протокол Kerberos
+359;org.apache.directory.server.apacheds-protocol-ldap;apacheds-protocol-ldap;протокол LDAP
+360;org.apache.directory.server.apacheds-protocol-ntp;apacheds-protocol-ntp;протокол NTP
+361;org.apache.directory.server.apacheds-protocol-shared;apacheds-protocol-shared;общий протоколный интерфейс
+362;org.apache.directory.server.apacheds-schema-bootstrap;apacheds-schema-bootstrap;схема запуска
+363;org.apache.directory.server.apacheds-schema-extras;apacheds-schema-extras;дополнительные схемы
+364;org.apache.directory.server.apacheds-schema-registries;apacheds-schema-registries;регистры схем
+365;org.apache.directory.server.apacheds-server-integ;apacheds-server-integ;интеграционные тесты сервера
+366;org.apache.directory.server.apacheds-server-jndi;apacheds-server-jndi;JNDI provider сервера
+367;org.apache.directory.server.apacheds-server-replication;apacheds-server-replication;репликация
+368;org.apache.directory.server.apacheds-server-tools;apacheds-server-tools;инструменты сервера
+369;org.apache.directory.server.apacheds-server-unit;apacheds-server-unit;унит-тесты сервера
+370;org.apache.directory.server.apacheds-server-xml;apacheds-server-xml;XML конфигурация сервера ADS
+371;org.apache.directory.server.apacheds-utils;apacheds-utils;вспомогательные утилиты ADS
+372;org.apache.directory.server.apacheds-xdbm-base;apacheds-xdbm-base;базовые классы XDBM ADS
+373;org.apache.directory.server.apacheds-xdbm-search;apacheds-xdbm-search;поиск в XDBM ADS
+374;org.apache.directory.server.apacheds-xdbm-tools;apacheds-xdbm-tools;инструменты XDBM ADS
+375;org.apache.directory.server.http.apacheds-http-integration;apacheds-http-integration;интеграция HTTP с ADS
+376;org.apache.directory.server.ldap-api-test;ldap-api-test;тесты API LDAP
+377;org.apache.directory.shared.shared-asn1-codec;shared-asn1-codec;кодировщик ASN.1
+378;org.apache.directory.shared.shared-ldap;shared-ldap;общие LDAP классы
+379;org.apache.directory.shared.shared-ldap-constants;shared-ldap-constants;LDAP константы
+380;org.apache.directory.shared.shared-parent;shared-parent;родительский модуль
+381;org.apache.excalibur.excalibur;excalibur;IoC контейнер Excalibur
+382;org.apache.felix.felix-parent;felix-parent;родительский POM Felix
+383;org.apache.felix.maven-bundle-plugin;maven-bundle-plugin;плагин сборки OSGi bundles
+384;org.apache.felix.org.apache.felix.bundlerepository;org.apache.felix.bundlerepository;registry bundles
+385;org.apache.felix.org.apache.felix.configadmin;org.apache.felix.configadmin;управление конфигурацией
+386;org.apache.felix.org.apache.felix.connect;org.apache.felix.connect;соединение компонент
+387;org.apache.felix.org.apache.felix.fileinstall;org.apache.felix.fileinstall;установка файлов
+388;org.apache.felix.org.apache.felix.utils;org.apache.felix.utils;утилиты Felix
+389;org.apache.geronimo.genesis.config.config;config;конфиг модуль Genesis
+390;org.apache.geronimo.genesis.config.project-config;project-config;config модуль
+391;org.apache.geronimo.genesis.genesis;genesis;основной модуль Genesis
+392;org.apache.geronimo.genesis.genesis-default-flava;genesis-default-flava;стандартная среда Genesis
+393;org.apache.geronimo.genesis.genesis-java5-flava;genesis-java5-flava;среда для Java 5
+394;org.apache.geronimo.specs.geronimo-jta_1.1_spec;geronimo-jta_1.1_spec;спецификация JTA 1.1
+395;org.apache.geronimo.specs.specs;specs;модуль спецификаций Geronimo
+396;org.apache.httpcomponents.fluent-hc;fluent-hc;удобный клиент HTTPComponents
+397;org.apache.httpcomponents.httpclient;httpclient;HTTP-клиент
+398;org.apache.httpcomponents.httpclient-cache;httpclient-cache;кеширование HTTP
+399;org.apache.httpcomponents.httpclient-osgi;httpclient-osgi;OSGi адаптер
+400;org.apache.httpcomponents.httpcomponents-client;httpcomponents-client;клиентские классы
+401;org.apache.httpcomponents.httpcomponents-core;httpcomponents-core;ядро HTTPComponents
+402;org.apache.httpcomponents.httpcore;httpcore;HTTP ядро
+403;org.apache.httpcomponents.httpcore-nio;httpcore-nio;NIO адаптер
+404;org.apache.httpcomponents.httpcore-osgi;httpcore-osgi;OSGi адаптер
+405;org.apache.httpcomponents.httpmime;httpmime;MIME типы
+406;org.apache.httpcomponents.project;project;родительский проект
+407;org.apache.logging.log4j.log4j;log4j;фреймворк логгирования Log4j
+408;org.apache.logging.log4j.log4j-api;log4j-api;API Log4j
+409;org.apache.logging.log4j.log4j-core;log4j-core;реализация Log4j
+410;org.apache.lucene.lucene-analyzers;lucene-analyzers;анализаторы Lucene
+411;org.apache.lucene.lucene-core;lucene-core;ядро Lucene
+412;org.apache.lucene.lucene-facet;lucene-facet;фасетная навигация
+413;org.apache.lucene.lucene-grouping;lucene-grouping;группировка документов
+414;org.apache.lucene.lucene-highlighter;lucene-highlighter;выделение фрагментов
+415;org.apache.lucene.lucene-kuromoji;lucene-kuromoji;анализатор для японского
+416;org.apache.lucene.lucene-memory;lucene-memory;индексирование в память
+417;org.apache.lucene.lucene-misc;lucene-misc;прочие модули
+418;org.apache.lucene.lucene-parent;lucene-parent;родительский модуль Lucene
+419;org.apache.lucene.lucene-phonetic;lucene-phonetic;фонетический поиск
+420;org.apache.lucene.lucene-queries;lucene-queries;запросы
+421;org.apache.lucene.lucene-smartcn;lucene-smartcn;анализатор для китайского
+422;org.apache.lucene.lucene-solr-grandparent;lucene-solr-grandparent;общий родитель Solr
+423;org.apache.lucene.lucene-spatial;lucene-spatial;пространственный поиск
+424;org.apache.lucene.lucene-spellchecker;lucene-spellchecker;орфографическая проверка
+425;org.apache.lucene.lucene-stempel;lucene-stempel;анализатор для польского
+426;org.apache.maven.archetypes.maven-archetype-bundles;maven-archetype-bundles;шаблоныbundles
+427;org.apache.maven.doxia.doxia;doxia;документационная система Doxia
+428;org.apache.maven.doxia.doxia-book;doxia-book;формат книги
+429;org.apache.maven.doxia.doxia-core;doxia-core;ядро Doxia
+430;org.apache.maven.doxia.doxia-decoration-model;doxia-decoration-model;модель оформления
+431;org.apache.maven.doxia.doxia-logging-api;doxia-logging-api;API логирования
+432;org.apache.maven.doxia.doxia-maven-plugin;doxia-maven-plugin;плагин генерации
+433;org.apache.maven.doxia.doxia-module-apt;doxia-module-apt;модуль APT
+434;org.apache.maven.doxia.doxia-module-confluence;doxia-module-confluence;модуль Confluence
+435;org.apache.maven.doxia.doxia-module-docbook-simple;doxia-module-docbook-simple;простой Docbook
+436;org.apache.maven.doxia.doxia-module-fml;doxia-module-fml;модуль Формул
+437;org.apache.maven.doxia.doxia-module-fo;doxia-module-fo;модуль XSL-FO
+438;org.apache.maven.doxia.doxia-module-itext;doxia-module-itext;модуль PDF
+439;org.apache.maven.doxia.doxia-module-latex;doxia-module-latex;модуль LaTeX
+440;org.apache.maven.doxia.doxia-module-rtf;doxia-module-rtf;модуль RTF
+441;org.apache.maven.doxia.doxia-modules;doxia-modules;модули вставки
+442;org.apache.maven.doxia.doxia-module-twiki;doxia-module-twiki;модуль Twiki
+443;org.apache.maven.doxia.doxia-module-xdoc;doxia-module-xdoc;модуль Docbook
+444;org.apache.maven.doxia.doxia-module-xhtml;doxia-module-xhtml;модуль XHTML
+445;org.apache.maven.doxia.doxia-sink-api;doxia-sink-api;API вставки
+446;org.apache.maven.doxia.doxia-site-renderer;doxia-site-renderer;рендерер сайта
+447;org.apache.maven.doxia.doxia-sitetools;doxia-sitetools;инструменты сайта
+448;org.apache.maven.maven;maven;основной модуль Maven
+449;org.apache.maven.maven-aether-provider;maven-aether-provider;провайдер доступа к зависимостям
+450;org.apache.maven.maven-archiver;maven-archiver;архивирование результатов сборки
+451;org.apache.maven.maven-artifact;maven-artifact;артефакты Maven
+452;org.apache.maven.maven-artifact-manager;maven-artifact-manager;менеджер артефактов
+453;org.apache.maven.maven-builder-support;maven-builder-support;инструменты сборщика
+454;org.apache.maven.maven-compat;maven-compat;совместимость версий Maven
+455;org.apache.maven.maven-core;maven-core;ядро Maven
+456;org.apache.maven.maven-embedder;maven-embedder;встраивание Maven
+457;org.apache.maven.maven-error-diagnostics;maven-error-diagnostics;диагностика ошибок
+458;org.apache.maven.maven-model;maven-model;модель проекта Maven
+459;org.apache.maven.maven-model-builder;maven-model-builder;сборщик модели
+460;org.apache.maven.maven-monitor;maven-monitor;мониторинг событий
+461;org.apache.maven.maven-parent;maven-parent;родительский модуль Maven
+462;org.apache.maven.maven-plugin-api;maven-plugin-api;API плагинов Maven
+463;org.apache.maven.maven-plugin-descriptor;maven-plugin-descriptor;описатель плагинов
+464;org.apache.maven.maven-plugin-parameter-documenter;maven-plugin-parameter-documenter;документация
+465;org.apache.maven.maven-plugin-registry;maven-plugin-registry;реестр плагинов
+466;org.apache.maven.maven-profile;maven-profile;профили Maven
+467;org.apache.maven.maven-project;maven-project;объект проекта Maven
+468;org.apache.maven.maven-repository-metadata;maven-repository-metadata;метаданные репозитория
+469;org.apache.maven.maven-settings;maven-settings;настройки Maven
+470;org.apache.maven.maven-settings-builder;maven-settings-builder;сборщик настроек
+471;org.apache.maven.maven-toolchain;maven-toolchain;инструментальная цепочка
+472;org.apache.maven.plugins.maven-antrun-plugin;maven-antrun-plugin;запуск Ant из Maven
+473;org.apache.maven.plugins.maven-assembly-plugin;maven-assembly-plugin;сборка артефактов
+474;org.apache.maven.plugins.maven-checkstyle-plugin;maven-checkstyle-plugin;проверка стиля кода
+475;org.apache.maven.plugins.maven-clean-plugin;maven-clean-plugin;очистка проекта
+476;org.apache.maven.plugins.maven-compiler-plugin;maven-compiler-plugin;компиляция Java
+477;org.apache.maven.plugins.maven-dependency-plugin;maven-dependency-plugin;работа с зависимостями
+478;org.apache.maven.plugins.maven-deploy-plugin;maven-deploy-plugin;развёртывание
+479;org.apache.maven.plugins.maven-ear-plugin;maven-ear-plugin;сборка EAR артефактов
+480;org.apache.maven.plugins.maven-ejb-plugin;maven-ejb-plugin;сборка EJB модулей
+481;org.apache.maven.plugins.maven-failsafe-plugin;maven-failsafe-plugin;интеграционное тестирование
+482;org.apache.maven.plugins.maven-install-plugin;maven-install-plugin;установка в локальный мавен
+483;org.apache.maven.plugins.maven-jar-plugin;maven-jar-plugin;сборка JAR
+484;org.apache.maven.plugins.maven-javadoc-plugin;maven-javadoc-plugin;генерация JavaDoc
+485;org.apache.maven.plugins.maven-plugin-plugin;maven-plugin-plugin;создание плагинов Maven
+486;org.apache.maven.plugins.maven-plugins;maven-plugins;registry плагинов Maven
+487;org.apache.maven.plugins.maven-resources-plugin;maven-resources-plugin;обработка ресурсов
+488;org.apache.maven.plugins.maven-shade-plugin;maven-shade-plugin;создание fat JAR
+489;org.apache.maven.plugins.maven-source-plugin;maven-source-plugin;сборка источников
+490;org.apache.maven.plugins.maven-surefire-plugin;maven-surefire-plugin;тестирование
+491;org.apache.maven.plugins.maven-surefire-report-plugin;maven-surefire-report-plugin;отчёты Surefire
+492;org.apache.maven.plugins.maven-war-plugin;maven-war-plugin;сборка веб-приложений
+493;org.apache.maven.plugin-tools.maven-plugin-annotations;maven-plugin-annotations;аннотации
+494;org.apache.maven.plugin-tools.maven-plugin-tools;maven-plugin-tools;инструменты разработки
+495;org.apache.maven.plugin-tools.maven-plugin-tools-annotations;maven-plugin-tools-annotations;аннотации
+496;org.apache.maven.plugin-tools.maven-plugin-tools-ant;maven-plugin-tools-ant;интеграция с Ant
+497;org.apache.maven.plugin-tools.maven-plugin-tools-api;maven-plugin-tools-api;API инструментов
+498;org.apache.maven.plugin-tools.maven-plugin-tools-beanshell;maven-plugin-tools-beanshell;BeanShell
+499;org.apache.maven.plugin-tools.maven-plugin-tools-generators;maven-plugin-tools-generators;генераторы
+500;org.apache.maven.plugin-tools.maven-plugin-tools-java;maven-plugin-tools-java;Java инструменты
+501;org.apache.maven.plugin-tools.maven-plugin-tools-model;maven-plugin-tools-model;модель
+502;org.apache.maven.plugin-tools.maven-script;maven-script;сценарии Maven
+503;org.apache.maven.plugin-tools.maven-script-ant;maven-script-ant;сценарии на Ant
+504;org.apache.maven.plugin-tools.maven-script-beanshell;maven-script-beanshell;BeanShell сценарии
+505;org.apache.maven.reporting.maven-reporting;maven-reporting;система отчётности Maven
+506;org.apache.maven.reporting.maven-reporting-api;maven-reporting-api;API отчётности
+507;org.apache.maven.reporting.maven-reporting-impl;maven-reporting-impl;реализация отчётности
+508;org.apache.maven.shared.file-management;file-management;управление файлами
+509;org.apache.maven.shared.maven-artifact-transfer;maven-artifact-transfer;передача артефактов
+510;org.apache.maven.shared.maven-common-artifact-filters;maven-common-artifact-filters;фильтры артефактов
+511;org.apache.maven.shared.maven-dependency-analyzer;maven-dependency-analyzer;анализ зависимостей
+512;org.apache.maven.shared.maven-dependency-tree;maven-dependency-tree;отображение дерева
+513;org.apache.maven.shared.maven-doxia-tools;maven-doxia-tools;инструменты Doxia
+514;org.apache.maven.shared.maven-filtering;maven-filtering;фильтрация ресурсов
+515;org.apache.maven.shared.maven-invoker;maven-invoker;вызов Maven из Java
+516;org.apache.maven.shared.maven-mapping;maven-mapping;соответствия artifact-file
+517;org.apache.maven.shared.maven-plugin-testing-harness;maven-plugin-testing-harness;тестирование плагинов
+518;org.apache.maven.shared.maven-repository-builder;maven-repository-builder;сборка репозитория
+519;org.apache.maven.shared.maven-shared-components;maven-shared-components;общие компоненты
+520;org.apache.maven.shared.maven-shared-incremental;maven-shared-incremental;инкрементальная сборка
+521;org.apache.maven.shared.maven-shared-io;maven-shared-io;ввод-вывод
+522;org.apache.maven.shared.maven-shared-utils;maven-shared-utils;утилиты
+523;org.apache.maven.surefire.common-java5;common-java5;общие классы Surefire для Java 5
+524;org.apache.maven.surefire.common-junit3;common-junit3;общие классы Surefire для JUnit 3
+525;org.apache.maven.surefire.common-junit4;common-junit4;общие классы Surefire для JUnit 4
+526;org.apache.maven.surefire.common-junit48;common-junit48;общие классы Surefire для JUnit 48
+527;org.apache.maven.surefire.maven-surefire-common;maven-surefire-common;общие классы Surefire
+528;org.apache.maven.surefire.surefire;surefire;основной модуль Surefire
+529;org.apache.maven.surefire.surefire-api;surefire-api;API Surefire
+530;org.apache.maven.surefire.surefire-booter;surefire-booter;запуск тестов
+531;org.apache.maven.surefire.surefire-extensions-api;surefire-extensions-api;API расширений
+532;org.apache.maven.surefire.surefire-extensions-spi;surefire-extensions-spi;SPI расширений
+533;org.apache.maven.surefire.surefire-grouper;surefire-grouper;группировка тестов
+534;org.apache.maven.surefire.surefire-integration-tests;surefire-integration-tests;интеграционные тесты
+535;org.apache.maven.surefire.surefire-junit3;surefire-junit3;поддержка JUnit 3
+536;org.apache.maven.surefire.surefire-junit4;surefire-junit4;поддержка JUnit 4
+537;org.apache.maven.surefire.surefire-junit47;surefire-junit47;поддержка JUnit 47
+538;org.apache.maven.surefire.surefire-junit-platform;surefire-junit-platform;поддержка JUnit Platform
+539;org.apache.maven.surefire.surefire-logger-api;surefire-logger-api;API логирования
+540;org.apache.maven.surefire.surefire-providers;surefire-providers;поставщики тестов
+541;org.apache.maven.surefire.surefire-report-parser;surefire-report-parser;анализ отчётов
+542;org.apache.maven.surefire.surefire-shadefire;surefire-shadefire;обход взаимного защиты
+543;org.apache.maven.surefire.surefire-shared-utils;surefire-shared-utils;общие утилиты
+544;org.apache.maven.surefire.surefire-testng;surefire-testng;интеграция с TestNG
+545;org.apache.maven.surefire.surefire-testng-utils;surefire-testng-utils;вспомогательные TestNG
+546;org.apache.maven.wagon.wagon;wagon;API файловых протоколов
+547;org.apache.maven.wagon.wagon-provider-api;wagon-provider-api;API поставщиков передачи
+548;org.apache.maven.wagon.wagon-providers;wagon-providers;поставщики передачи
+549;org.apache.maven.wagon.wagon-webdav;wagon-webdav;поставщик WebDAV
+550;org.apache.mina.mina-core;mina-core;ядро MINA
+551;org.apache.mina.mina-parent;mina-parent;родительский модуль MINA
+552;org.apache.mina.mina-transport-serial;mina-transport-serial;сериальный транспорт MINA
+553;org.apache.odftoolkit.odfdom-java;odfdom-java;модель ODF
+554;org.apache.odftoolkit.odftoolkit;odftoolkit;библиотека работы с ODF
+555;org.apache.odftoolkit.simple-odf;simple-odf;обёртка ODFToolkit
+556;org.apache.odftoolkit.taglets;taglets;теги JavaDoc ODFToolkit
+557;org.apache.poi.poi;poi;библиотека работы с Office файлами
+558;org.apache.solr.solr-analysis-extras;solr-analysis-extras;дополнительные анализаторы Solr
+559;org.apache.solr.solr-core;solr-core;ядро Solr
+560;org.apache.solr.solr-parent;solr-parent;родительский модуль Solr
+561;org.apache.solr.solr-solrj;solr-solrj;Java-клиент Solr
+562;org.apache.struts.struts-core;struts-core;ядро Struts
+563;org.apache.struts.struts-master;struts-master;основной модуль Struts
+564;org.apache.struts.struts-parent;struts-parent;родительский модуль Struts
+565;org.apache.struts.struts-taglib;struts-taglib;теги Struts
+566;org.apache.struts.struts-tiles;struts-tiles;интеграция с Tiles
+567;org.apache.velocity.velocity;velocity;шаблонизатор Velocity
+568;org.apache.velocity.velocity-tools;velocity-tools;инструменты Velocity
+569;org.apache.wicket.wicket;wicket;основной модуль Wicket
+570;org.apache.wicket.wicket-extensions;wicket-extensions;расширения Wicket
+571;org.apache.wicket.wicket-ioc;wicket-ioc;интеграция Wicket с IoC контейнерами
+572;org.apache.wicket.wicket-parent;wicket-parent;родительский POM Wicket
+573;org.apache.wicket.wicket-spring;wicket-spring;интеграция Wicket со Spring
+574;org.apache.ws.commons.ws-commons-util;ws-commons-util;утилиты веб-сервисов
+575;org.apache.xbean.xbean;xbean;JavaBean рефлексия
+576;org.apache.xbean.xbean-reflect;xbean-reflect;рефлексия через XBean
+577;org.apache.xmlbeans.xmlbeans;xmlbeans;стандарт генерации кода из XSD
+578;org.apache.xmlgraphics.batik-anim;batik-anim;анимация SVG в Batik
+579;org.apache.xmlgraphics.batik-awt-util;batik-awt-util;вспомогательные AWT классы Batik
+580;org.apache.xmlgraphics.batik-bridge;batik-bridge;мосты изображений в Batik
+581;org.apache.xmlgraphics.batik-css;batik-css;парсинг CSS в Batik
+582;org.apache.xmlgraphics.batik-dom;batik-dom;DOM в Batik
+583;org.apache.xmlgraphics.batik-ext;batik-ext;расширения Batik
+584;org.apache.xmlgraphics.batik-gvt;batik-gvt;рендерер GVT Batik
+585;org.apache.xmlgraphics.batik-js;batik-js;интеграция Batik с JavaScript
+586;org.apache.xmlgraphics.batik-parser;batik-parser;парсер XML в Batik
+587;org.apache.xmlgraphics.batik-script;batik-script;сценарии Batik
+588;org.apache.xmlgraphics.batik-svg-dom;batik-svg-dom;DOM для SVG в Batik
+589;org.apache.xmlgraphics.batik-svggen;batik-svggen;генератор SVG в Batik
+590;org.apache.xmlgraphics.batik-transcoder;batik-transcoder;транскодирование Batik
+591;org.apache.xmlgraphics.batik-util;batik-util;утилиты Batik
+592;org.apache.xmlgraphics.batik-xml;batik-xml;XML в Batik
+593;org.apache.xmlgraphics.fop;fop;рендерер PDF XML
+594;org.apache.xmlgraphics.xmlgraphics-commons;xmlgraphics-commons;общие классы
+595;org.apache.xml.xml-commons-resolver;xml-commons-resolver;каталог ресурсов XML
+596;org.apiguardian.apiguardian-api;apiguardian-api;аннотации для тестов
+597;org.aspectj.aspectjrt;aspectjrt;AJ рантайм
+598;org.beanshell.beanshell;beanshell;интерпретатор Java Beanshell
+599;org.beanshell.bsh;bsh;интерпретатор Java Beanshell
+600;org.boris.expr;expr;построитель выражений
+601;org.bouncycastle.bcprov-jdk14;bcprov-jdk14;провайдер криптографии Bouncy Castle
+602;org.ccil.cowan.tagsoup.tagsoup;tagsoup;HTML парсер TagSoup
+603;org.checkerframework.checker-compat-qual;checker-compat-qual;аннотации проверки типов
+604;org.clojure.clojure;clojure;Clojure - динамический язык на Java VM
+605;org.codehaus.codehaus-parent;codehaus-parent;родительский модуль Codehaus
+606;org.codehaus.gmaven.archetypes.gmaven-archetype-basic;gmaven-archetype-basic;шаблон простого GMAVEN плагина
+607;org.codehaus.gmaven.archetypes.gmaven-archetype-mojo;gmaven-archetype-mojo;шаблон GMAVEN моджо
+608;org.codehaus.gmaven.archetypes.gmaven-archetypes;gmaven-archetypes;модуль шаблонов GMAVEN
+609;org.codehaus.gmaven.examples.clean-maven-plugin;clean-maven-plugin;пример чистящего плагина
+610;org.codehaus.gmaven.examples.gmaven-examples;gmaven-examples;примеры GMAVEN
+611;org.codehaus.gmaven.examples.install-maven-plugin;install-maven-plugin;пример установочного плагина
+612;org.codehaus.gmaven.feature.gmaven-feature;gmaven-feature;жизненный цикл функций
+613;org.codehaus.gmaven.feature.gmaven-feature-api;gmaven-feature-api;API функций
+614;org.codehaus.gmaven.feature.gmaven-feature-support;gmaven-feature-support;поддержка функций
+615;org.codehaus.gmaven.gmaven;gmaven;основной модуль GMAVEN
+616;org.codehaus.gmaven.gmaven-mojo;gmaven-mojo;GMAVEN моджо
+617;org.codehaus.gmaven.gmaven-mojo-support;gmaven-mojo-support;поддержка моджо
+618;org.codehaus.gmaven.gmaven-packaging;gmaven-packaging;упаковка GMAVEN
+619;org.codehaus.gmaven.gmaven-plugin;gmaven-plugin;плагин GMAVEN
+620;org.codehaus.gmaven.gmaven-testsuite;gmaven-testsuite;тесты GMAVEN
+621;org.codehaus.gmaven.runtime.gmaven-runtime;gmaven-runtime;рантайм GMAVEN
+622;org.codehaus.gmaven.runtime.gmaven-runtime-api;gmaven-runtime-api;API рантайма
+623;org.codehaus.gmaven.runtime.gmaven-runtime-loader;gmaven-runtime-loader;загрузчик рантайма
+624;org.codehaus.gmaven.runtime.gmaven-runtime-support;gmaven-runtime-support;поддержка рантайма
+625;org.codehaus.gmaven.support.filter-plugin;filter-plugin;плагин фильтрации
+626;org.codehaus.gmaven.support.gmaven-support;gmaven-support;поддержка GMAVEN
+627;org.codehaus.groovy.groovy;groovy;Groovy runtime
+628;org.codehaus.groovy.groovy-all;groovy-all;Groovy со всеми дополнениями
+629;org.codehaus.groovy.groovy-json;groovy-json;поддержка JSON
+630;org.codehaus.groovy.groovy-xml;groovy-xml;работа с XML
+631;org.codehaus.jackson.jackson-core-asl;jackson-core-asl;ядро Jackson
+632;org.codehaus.jackson.jackson-jaxrs;jackson-jaxrs;Jackson для JAX-RS
+633;org.codehaus.jackson.jackson-mapper-asl;jackson-mapper-asl;преобразование объектов
+634;org.codehaus.jackson.jackson-xc;jackson-xc;Jackson для XML/JSON/CSV
+635;org.codehaus.jettison.jettison;jettison;библиотека JSON
+636;org.codehaus.mojo.build-helper-maven-plugin;build-helper-maven-plugin;помощник сборки
+637;org.codehaus.mojo.cobertura-maven-plugin;cobertura-maven-plugin;плагин Cobertura
+638;org.codehaus.mojo.groovy-maven-plugin;groovy-maven-plugin;плагин Groovy
+639;org.codehaus.mojo.javacc-maven-plugin;javacc-maven-plugin;плагин JavaCC
+640;org.codehaus.mojo.mojo;mojo;основной модуль
+641;org.codehaus.mojo.mojo-parent;mojo-parent;родительский модуль Mojo
+642;org.codehaus.mojo.nbm-maven;nbm-maven;пакетирование NetBeans модулей
+643;org.codehaus.mojo.nbm-maven-harness;nbm-maven-harness;запуск NetBeans модулей
+644;org.codehaus.mojo.nbm-maven-plugin;nbm-maven-plugin;плагин NetBeans
+645;org.codehaus.mojo.nb-shared;nb-shared;общие ресурсы NetBeans
+646;org.codehaus.plexus.plexus;plexus;основной модуль Plexus
+647;org.codehaus.plexus.plexus-active-collections;plexus-active-collections;активные коллекции
+648;org.codehaus.plexus.plexus-archiver;plexus-archiver;архиватор
+649;org.codehaus.plexus.plexus-classworlds;plexus-classworlds;загрузчик классов
+650;org.codehaus.plexus.plexus-compiler;plexus-compiler;компиляторы
+651;org.codehaus.plexus.plexus-compiler-api;plexus-compiler-api;API компиляторов
+652;org.codehaus.plexus.plexus-compiler-javac;plexus-compiler-javac;компилятор Java
+653;org.codehaus.plexus.plexus-compiler-manager;plexus-compiler-manager;менеджер компиляторов
+654;org.codehaus.plexus.plexus-compilers;plexus-compilers;регистр компиляторов
+655;org.codehaus.plexus.plexus-component-annotations;plexus-component-annotations;аннотации
+656;org.codehaus.plexus.plexus-component-api;plexus-component-api;API компонентов
+657;org.codehaus.plexus.plexus-components;plexus-components;базовые компоненты
+658;org.codehaus.plexus.plexus-container-default;plexus-container-default;контейнер по умолчанию
+659;org.codehaus.plexus.plexus-containers;plexus-containers;API контейнеров
+660;org.codehaus.plexus.plexus-digest;plexus-digest;хеши и цифровые подписи
+661;org.codehaus.plexus.plexus-i18n;plexus-i18n;интернационализация
+662;org.codehaus.plexus.plexus-interactivity-api;plexus-interactivity-api;API интерактивности
+663;org.codehaus.plexus.plexus-interpolation;plexus-interpolation;интерполяция
+664;org.codehaus.plexus.plexus-io;plexus-io;ввод-вывод
+665;org.codehaus.plexus.plexus-java;plexus-java;Java-специфичные компоненты
+666;org.codehaus.plexus.plexus-languages;plexus-languages;языки программирования
+667;org.codehaus.plexus.plexus-utils;plexus-utils;общие утилиты
+668;org.codehaus.plexus.plexus-velocity;plexus-velocity;интеграция Plexus и Velocity
+669;org.codehaus.woodstox.stax2-api;stax2-api;API стримового парсинга XML
+670;org.drools.drools-bom;drools-bom;модуль, описывающий зависимости Drools
+671;org.drools.drools-compiler;drools-compiler;компилятор правил Drools
+672;org.drools.drools-core;drools-core;ядро фреймворка Drools
+673;org.drools.droolsjbpm-knowledge;droolsjbpm-knowledge;интерфейс для представления и чтения знаний
+674;org.drools.droolsjbpm-parent;droolsjbpm-parent;родительский модуль Drools
+675;org.drools.drools-multiproject;drools-multiproject;описание многомодульного проекта Drools
+676;org.drools.knowledge-api;knowledge-api;API для работы с знаниями
+677;org.drools.knowledge-internal-api;knowledge-internal-api;внутренний API знаний
+678;org.easymock.easymock;easymock;библиотека мок-объектов
+679;org.easymock.easymockclassextension;easymockclassextension;расширение функционала EasyMock
+680;org.easytesting.fest;fest;фреймворк для написания тестов
+681;org.easytesting.fest-assert;fest-assert;библиотека ассертов
+682;org.easytesting.fest-util;fest-util;вспомогательные утилиты
+683;org.eclipse.aether.aether;aether;менеджер зависимостей для Maven
+684;org.eclipse.aether.aether-api;aether-api;API менеджера
+685;org.eclipse.aether.aether-impl;aether-impl;реализация
+686;org.eclipse.aether.aether-spi;aether-spi;Service Provider Interface
+687;org.eclipse.aether.aether-util;aether-util;утилиты
+688;org.eclipse.emf.common;common;общие классы EMF
+689;org.eclipse.emf.ecore;ecore;ядро EMF
+690;org.eclipse.jdt.core.compiler.ecj;ecj;Java компилятор
+691;org.eclipse.jgit.org.eclipse.jgit;org.eclipse.jgit;клиент Git
+692;org.eclipse.persistence.org.eclipse.persistence.antlr;org.eclipse.persistence.antlr;ANTLR
+693;org.eclipse.persistence.org.eclipse.persistence.asm;org.eclipse.persistence.asm;байт-код ASM
+694;org.eclipse.persistence.org.eclipse.persistence.core;org.eclipse.persistence.core;ядро
+695;org.eclipse.persistence.org.eclipse.persistence.moxy;org.eclipse.persistence.moxy;JAXB
+696;org.eclipse.sisu.org.eclipse.sisu.inject;org.eclipse.sisu.inject;инъекция зависимостей
+697;org.eclipse.sisu.org.eclipse.sisu.plexus;org.eclipse.sisu.plexus;интеграция с Plexus
+698;org.eclipse.sisu.sisu-inject;sisu-inject;библиотека инъекции зависимостей Eclipse SISU
+699;org.eclipse.sisu.sisu-plexus;sisu-plexus;модуль интеграции Plexus с Eclipse SISU
+700;org.eclipse.xsd.xsd;xsd;работа со схемами XML
+701;org.freemarker.freemarker;freemarker;шаблонизатор FreeMarker
+702;org.fusesource.jansi.jansi;jansi;вывод ANSI символов
+703;org.gdal.gdal;gdal;доступ к растровым геопространственным данным
+704;org.geoserver.community;community;сообщественные модули
+705;org.geoserver.extension;extension;расширения
+706;org.geoserver.geoserver;geoserver;основной модуль
+707;org.geoserver.gs-gwc;gs-gwc;интеграция с GeoWebCache
+708;org.geoserver.gs-kml;gs-kml;модуль KML
+709;org.geoserver.gs-main;gs-main;основной (core) модуль платформы GeoServer
+710;org.geoserver.gs-ows;gs-ows;OGC Web Services
+711;org.geoserver.gs-platform;gs-platform;платформа
+712;org.geoserver.gs-rest;gs-rest;REST API
+713;org.geoserver.gs-restconfig;gs-restconfig;REST конфигурация
+714;org.geoserver.gs-security;gs-security;безопасность
+715;org.geoserver.gs-wcs;gs-wcs;Web Coverage Service - ОGC-стандартный веб-сервис для работы с растровыми геопространственными данными 
+716;org.geoserver.gs-wcs1_0;gs-wcs1_0;WCS версии 1.0
+717;org.geoserver.gs-wcs1_1;gs-wcs1_1;WCS версии 1.1
+718;org.geoserver.gs-wcs2_0;gs-wcs2_0;WCS версии 2.0
+719;org.geoserver.gs-wfs;gs-wfs;модуль, реализующий Web Feature Service (WFS), OGC-стандартный веб-сервис для запроса и манипулирования геопространственными данными в векторном формате
+720;org.geoserver.gs-wms;gs-wms;модуль, реализующий Web Map Service (WMS), OGC-стандартный веб-сервис, позволяющий получать картографические изображения территорий в различных форматах по заданным параметрам
+721;org.geoserver.security.gs-sec-jdbc;gs-sec-jdbc;JDBC аутентификация
+722;org.geoserver.security.gs-sec-ldap;gs-sec-ldap;LDAP аутентификация
+723;org.geoserver.web;web;веб-интерфейс
+724;org.geoserver.web.gs-web-app;gs-web-app;основной веб-модуль
+725;org.geoserver.web.gs-web-core;gs-web-core;ядро веб-модуля
+726;org.geoserver.web.gs-web-demo;gs-web-demo;демонстрационные страницы
+727;org.geoserver.web.gs-web-gwc;gs-web-gwc;интеграция GWC
+728;org.geoserver.web.gs-web-rest;gs-web-rest;REST интерфейс
+729;org.geoserver.web.gs-web-sec;gs-web-sec;безопасность
+730;org.geoserver.web.gs-web-sec-core;gs-web-sec-core;ядро безопасности
+731;org.geoserver.web.gs-web-sec-jdbc;gs-web-sec-jdbc;JDBC
+732;org.geoserver.web.gs-web-sec-ldap;gs-web-sec-ldap;LDAP
+733;org.geoserver.web.gs-web-wcs;gs-web-wcs;интерфейс WCS
+734;org.geoserver.web.gs-web-wfs;gs-web-wfs;интерфейс WFS
+735;org.geoserver.web.gs-web-wms;gs-web-wms;интерфейс WMS
+736;org.geoserver.security.gs-sec-jdbc;gs-sec-jdbc;модуль аутентификации по JDBC для GeoServer
+737;org.geoserver.security.gs-sec-ldap;gs-sec-ldap;модуль аутентификации по LDAP для GeoServer
+738;org.geoserver.web;web;веб-интерфейс GeoServer
+739;org.geoserver.web.gs-web-app;gs-web-app;основной модуль веб-интерфейса
+740;org.geoserver.web.gs-web-core;gs-web-core;ядро веб-интерфейса
+741;org.geoserver.web.gs-web-demo;gs-web-demo;демонстрационные страницы
+742;org.geoserver.web.gs-web-gwc;gs-web-gwc;интеграция с GeoWebCache
+743;org.geoserver.web.gs-web-rest;gs-web-rest;REST API
+744;org.geoserver.web.gs-web-sec;gs-web-sec;модуль безопасности
+745;org.geoserver.web.gs-web-sec-core;gs-web-sec-core;ядро модуля безопасности
+746;org.geoserver.web.gs-web-sec-jdbc;gs-web-sec-jdbc;JDBC аутентификация
+747;org.geoserver.web.gs-web-sec-ldap;gs-web-sec-ldap;LDAP аутентификация
+748;org.geoserver.web.gs-web-wcs;gs-web-wcs;интерфейс WCS
+749;org.geoserver.web.gs-web-wfs;gs-web-wfs;интерфейс WFS
+750;org.geoserver.web.gs-web-wms;gs-web-wms;интерфейс WMS
+751;org.geotools.app-schema;app-schema;поддержка GML Application Schema
+752;org.geotools.extension;extension;библиотека расширений GeoTools
+753;org.geotools.geotools;geotools;основная библиотека GeoTools
+754;org.geotools.gt-api;gt-api;API-интерфейсы GeoTools
+755;org.geotools.gt-app-schema-resolver;gt-app-schema-resolver;модуль разрешения схем приложений в GeoTools
+756;org.geotools.gt-arcgrid;gt-arcgrid;поддержка формата растровых данных ArcGrid в GeoTools
+757;org.geotools.gt-complex;gt-complex;поддержка сложных типов данных в GeoTools
+758;org.geotools.gt-coverage;gt-coverage;модуль работы с растровыми данными (coverage) в GeoTools
+759;org.geotools.gt-cql;gt-cql;поддержка CQL (Common Query Language) в GeoTools
+760;org.geotools.gt-data;gt-data;модуль для доступа к геоданным в GeoTools
+761;org.geotools.gt-epsg-extension;gt-epsg-extension;расширение с поддержкой EPSG кодов в GeoTools
+762;org.geotools.gt-epsg-hsql;gt-epsg-hsql;модуль с базой данных EPSG кодов на основе HSQLDB для GeoTools
+763;org.geotools.gt-geojson;gt-geojson;поддержка формата GeoJSON в GeoTools
+764;org.geotools.gt-geotiff;gt-geotiff;поддержка формата GeoTIFF в GeoTools
+765;org.geotools.gt-graph;gt-graph;модуль для работы с графами в GeoTools
+766;org.geotools.gt-grid;gt-grid;поддержка формата растровых данных Grid в GeoTools
+767;org.geotools.gt-gtopo30;gt-gtopo30;поддержка цифровой модели рельефа GTopo30 в GeoTools
+768;org.geotools.gt-image;gt-image;модуль для работы с растровыми изображениями в GeoTools
+769;org.geotools.gt-imagemosaic;gt-imagemosaic;поддержка формата ImageMosaic в GeoTools
+770;org.geotools.gt-jdbc;gt-jdbc;модуль для доступа к БД через JDBC в GeoTools
+771;org.geotools.gt-main;gt-main;основной исполняемый модуль GeoTools
+772;org.geotools.gt-metadata;gt-metadata;модуль для работы с метаданными в GeoTools
+773;org.geotools.gt-opengis;gt-opengis;реализация стандартов OGC в GeoTools
+774;org.geotools.gt-process;gt-process;фреймворк для геообработки в GeoTools
+775;org.geotools.gt-process-feature;gt-process-feature;модуль геообработки векторных данных в GeoTools
+776;org.geotools.gt-process-raster;gt-process-raster;модуль геообработки растровых данных в GeoTools
+777;org.geotools.gt-property;gt-property;модуль для работы со свойствами в GeoTools
+778;org.geotools.gt-referencing;gt-referencing;модуль пространственной привязки в GeoTools
+779;org.geotools.gt-render;gt-render;модуль отрисовки карт в GeoTools
+780;org.geotools.gt-shapefile;gt-shapefile;поддержка формата Shapefile в GeoTools
+781;org.geotools.gt-svg;gt-svg;поддержка формата SVG в GeoTools
+782;org.geotools.gt-swing;gt-swing;модуль с GUI компонентами на основе Swing для GeoTools
+783;org.geotools.gt-transform;gt-transform;модуль преобразования координат в GeoTools
+784;org.geotools.gt-wfs-ng;gt-wfs-ng;реализация WFS стандарта нового поколения в GeoTools
+785;org.geotools.gt-wms;gt-wms;клиентская реализация WMS в GeoTools
+786;org.geotools.gt-xml;gt-xml;модуль для работы с XML в GeoTools
+787;org.geotools.jdbc.gt-jdbc;gt-jdbc;модуль JDBC доступа к данным в GeoTools
+788;org.geotools.jdbc.gt-jdbc-postgis;gt-jdbc-postgis;модуль JDBC доступа к PostGIS в GeoTools
+789;org.geotools.library;library;библиотека GeoTools
+790;org.geotools.modules;modules;модули GeoTools
+791;org.geotools.ogc;ogc;реализация стандартов OGC в GeoTools
+792;org.geotools.ogc.net.opengis.fes;net.opengis.fes;реализация стандарта Filter Encoding в GeoTools
+793;org.geotools.ogc.net.opengis.ows;net.opengis.ows;реализация стандарта OWS в GeoTools
+794;org.geotools.ogc.net.opengis.wcs;net.opengis.wcs;реализация стандарта WCS в GeoTools
+795;org.geotools.ogc.net.opengis.wfs;net.opengis.wfs;реализация стандарта WFS в GeoTools
+796;org.geotools.ogc.org.w3.xlink;org.w3.xlink;реализация стандарта XLink (OGC/XML) в GeoTools
+797;org.geotools.plugin;plugin;модуль поддержки плагинов в GeoTools
+798;org.geotools.unsupported;unsupported;модули GeoTools с экспериментальной поддержкой
+799;org.geotools.xsd.gt-xsd-core;gt-xsd-core;основные XML схемы GeoTools
+800;org.geotools.xsd.gt-xsd-fes;gt-xsd-fes;XML схемы Filter Encoding в GeoTools
+801;org.geotools.xsd.gt-xsd-filter;gt-xsd-filter;XML схемы фильтров в GeoTools
+802;org.geotools.xsd.gt-xsd-gml2;gt-xsd-gml2;XML схемы GML 2 для GeoTools
+803;org.geotools.xsd.gt-xsd-gml3;gt-xsd-gml3;XML схемы GML 3 для GeoTools
+804;org.geotools.xsd.gt-xsd-ows;gt-xsd-ows;XML схемы OWS для GeoTools
+805;org.geotools.xsd.gt-xsd-sld;gt-xsd-sld;XML схемы SLD для GeoTools
+806;org.geotools.xsd.gt-xsd-wcs;gt-xsd-wcs;XML схемы WCS для GeoTools
+807;org.geotools.xsd.gt-xsd-wfs;gt-xsd-wfs;XML схемы WFS для GeoTools
+808;org.geotools.xsd.xsd;xsd;XML схемы для GeoTools
+809;org.geowebcache.geowebcache;geowebcache;основной модуль библиотеки Geowebcache
+810;org.geowebcache.gwc-arcgiscache;gwc-arcgiscache;поддержка кэша ArcGIS в Geowebcache
+811;org.geowebcache.gwc-aws-s3;gwc-aws-s3;интеграция с Amazon S3 в Geowebcache
+812;org.geowebcache.gwc-core;gwc-core;ядро Geowebcache
+813;org.geowebcache.gwc-diskquota;gwc-diskquota;модуль квот дискового пространства в Geowebcache
+814;org.geowebcache.gwc-diskquota-bdb;gwc-diskquota-bdb;поддержка Berkeley DB для квот диска в Geowebcache
+815;org.geowebcache.gwc-diskquota-core;gwc-diskquota-core;основной модуль для работы с квотами диска в Geowebcache
+816;org.geowebcache.gwc-diskquota-jdbc;gwc-diskquota-jdbc;JDBC поддержка для квот диска в Geowebcache
+817;org.geowebcache.gwc-distributed;gwc-distributed;распределенный режим кэширования в Geowebcache
+818;org.geowebcache.gwc-georss;gwc-georss;поддержка GeoRSS в Geowebcache
+819;org.geowebcache.gwc-gmaps;gwc-gmaps;поддержка карт Google в Geowebcache
+820;org.geowebcache.gwc-kml;gwc-kml;поддержка KML в Geowebcache
+821;org.geowebcache.gwc-rest;gwc-rest;REST API для Geowebcache
+822;org.geowebcache.gwc-tms;gwc-tms;поддержка TMS в Geowebcache
+823;org.geowebcache.gwc-ve;gwc-ve;визуальный редактор кэша в Geowebcache
+824;org.geowebcache.gwc-wms;gwc-wms;WMS клиент в Geowebcache
+825;org.geowebcache.gwc-wmts;gwc-wmts;поддержка WMTS в Geowebcache
+826;org.glassfish.hk2.external;external;внешние зависимости Glassfish HK2
+827;org.glassfish.hk2.external.asm-all-repackaged;asm-all-repackaged;репакованный asm для HK2
+828;org.glassfish.hk2.external.bean-validator;bean-validator;валидатор Bean для HK2
+829;org.glassfish.hk2.external.bean-validator-cdi;bean-validator-cdi;CDI расширение для валидатора Bean в HK2
+830;org.glassfish.hk2.external.cglib;cglib;библиотека CGLib для HK2
+831;org.glassfish.hk2.external.javax.inject;javax.inject;javax.inject API для HK2
+832;org.glassfish.hk2.hk2-api;hk2-api;API HK2
+833;org.glassfish.hk2.hk2-bom;hk2-bom;BOM (модель зависимостей) для HK2
+834;org.glassfish.hk2.hk2-kernel-parent;hk2-kernel-parent;родительский для ядра HK2
+835;org.glassfish.hk2.hk2-locator;hk2-locator;сервис локатора в HK2
+836;org.glassfish.hk2.hk2-parent;hk2-parent;родительский POM для HK2 модулей
+837;org.glassfish.hk2.hk2-public;hk2-public;публичные классы HK2
+838;org.glassfish.hk2.hk2-utils;hk2-utils;утилиты HK2
+839;org.glassfish.hk2.osgi-resource-locator;osgi-resource-locator;локатор ресурсов OSGi для HK2
+840;org.glassfish.hk2.tiger-types-osgi;tiger-types-osgi;типы-заглушки OSGi для HK2
+841;org.glassfish.javax.enterprise.concurrent;javax.enterprise.concurrent;API асинхронных вызовов для Glassfish
+842;org.glassfish.javax.json;javax.json;API JSON обработки для Glassfish
+843;org.glassfish.jaxb.jaxb-bom;jaxb-bom;BOM для JAXB в Glassfish
+844;org.glassfish.jersey.containers.jersey-container-servlet;jersey-container-servlet;сервлетный контейнер для Jersey
+845;org.glassfish.jersey.containers.jersey-container-servlet-core;jersey-container-servlet-core;ядро сервлетного контейнера Jersey
+846;org.glassfish.jersey.containers.project;project;контейнеры Jersey
+847;org.glassfish.jersey.core.jersey-client;jersey-client;клиент Jersey
+848;org.glassfish.jersey.core.jersey-common;jersey-common;общие классы Jersey
+849;org.glassfish.jersey.core.jersey-server;jersey-server;сервер Jersey
+850;org.glassfish.jersey.ext.jersey-entity-filtering;jersey-entity-filtering;фильтрация сущностей Jersey
+851;org.glassfish.jersey.ext.project;project;расширения Jersey
+852;org.glassfish.jersey.media.jersey-media-moxy;jersey-media-moxy;поддержка MOXy в Jersey
+853;org.glassfish.jersey.media.project;project;мультимедиа библиотеки Jersey
+854;org.glassfish.jersey.project;project;проект Jersey
+855;org.glassfish.json;json;библиотека JSON обработки для Glassfish
+856;org.glassfish.pom;pom;родительский POM для Glassfish
+857;org.guvnor.guvnor-bom;guvnor-bom;модель зависимостей (BOM) для Guvnor
+858;org.hamcrest.hamcrest-core;hamcrest-core;ядро библиотеки Hamcrest для тестирования
+859;org.hamcrest.hamcrest-library;hamcrest-library;библиотека совпадений Hamcrest
+860;org.hamcrest.hamcrest-parent;hamcrest-parent;родительский POM для Hamcrest
+861;org.hibernate.common.hibernate-commons-annotations;hibernate-commons-annotations;аннотации Hibernate
+862;org.hibernate.hibernate-core;hibernate-core;ядро Hibernate ORM
+863;org.hibernate.hibernate-entitymanager;hibernate-entitymanager;модуль поддержки JPA в Hibernate
+864;org.hibernate.hibernate-jpamodelgen;hibernate-jpamodelgen;генератор моделей JPA для Hibernate
+865;org.hibernate.hibernate-search;hibernate-search;библиотека полнотекстового поиска Hibernate Search
+866;org.hibernate.hibernate-search-analyzers;hibernate-search-analyzers;анализаторы для Hibernate Search
+867;org.hibernate.hibernate-search-engine;hibernate-search-engine;ядро Hibernate Search
+868;org.hibernate.hibernate-search-orm;hibernate-search-orm;интеграция Hibernate Search с ORM
+869;org.hibernate.hibernate-search-parent;hibernate-search-parent;родительский POM для Hibernate Search
+870;org.hibernate.hibernate-validator;hibernate-validator;валидация данных с Hibernate Validator
+871;org.hibernate.hibernate-validator-annotation-processor;hibernate-validator-annotation-processor;аннотационный процессор для Hibernate Validator
+872;org.hibernate.hibernate-validator-parent;hibernate-validator-parent;родительский POM для Hibernate Validator
+873;org.hibernate.javax.persistence.hibernate-jpa-2.1-api;hibernate-jpa-2.1-api;реализация JPA 2.1 API для Hibernate
+874;org.hornetq.hornetq-aerogear-integration;hornetq-aerogear-integration;интеграция HornetQ с Aerogear
+875;org.hornetq.hornetq-amqp-protocol;hornetq-amqp-protocol;поддержка протокола AMQP в HornetQ
+876;org.hornetq.hornetq-bootstrap;hornetq-bootstrap;загрузчик HornetQ
+877;org.hornetq.hornetq-commons;hornetq-commons;общие классы HornetQ
+878;org.hornetq.hornetq-core-client;hornetq-core-client;клиентское API ядра HornetQ
+879;org.hornetq.hornetq-jboss-as-integration;hornetq-jboss-as-integration;интеграция HornetQ с JBoss AS
+880;org.hornetq.hornetq-jms-client;hornetq-jms-client;клиентская библиотека JMS для HornetQ
+881;org.hornetq.hornetq-jms-server;hornetq-jms-server;серверная библиотека JMS для HornetQ
+882;org.hornetq.hornetq-journal;hornetq-journal;журналирование в HornetQ
+883;org.hornetq.hornetq-native;hornetq-native;нативный транспорт HornetQ
+884;org.hornetq.hornetq-pom;hornetq-pom;родительский POM для HornetQ
+885;org.hornetq.hornetq-protocols;hornetq-protocols;поддержка протоколов в HornetQ
+886;org.hornetq.hornetq-ra;hornetq-ra;ресурсный адаптер JCA для HornetQ
+887;org.hornetq.hornetq-server;hornetq-server;сервер HornetQ
+888;org.hornetq.hornetq-service-sar;hornetq-service-sar;MSC сервисный архив для HornetQ
+889;org.hornetq.hornetq-spring-integration;hornetq-spring-integration;интеграция с Spring HornetQ
+890;org.hornetq.hornetq-stomp-protocol;hornetq-stomp-protocol;поддержка протокола STOMP в HornetQ
+891;org.hornetq.hornetq-tools;hornetq-tools;вспомогательные утилиты HornetQ
+892;org.hornetq.hornetq-twitter-integration;hornetq-twitter-integration;интеграция с Twitter в HornetQ
+893;org.hornetq.rest.hornetq-rest;hornetq-rest;REST интерфейс для HornetQ
+894;org.hsqldb.hsqldb;hsqldb;база данных HSQLDB
+895;org.infinispan.infinispan-bom;infinispan-bom;BOM для Infinispan
+896;org.infinispan.infinispan-commons;infinispan-commons;общие классы Infinispan
+897;org.infinispan.infinispan-core;infinispan-core;ядро кеширования Infinispan
+898;org.infinispan.infinispan-parent;infinispan-parent;родительский POM для Infinispan
+899;org.iq80.snappy.snappy;snappy;библиотека сжатия Snappy
+900;org.itadaki.bzip2;bzip2;реализация алгоритма сжатия bzip2
+901;org.jaitools.jaitools;jaitools;библиотека геопространственной обработки данных JAITools
+902;org.jaitools.jt-attributeop;jt-attributeop;операции с атрибутами в JAITools
+903;org.jaitools.jt-contour;jt-contour;генерация контуров в JAITools
+904;org.jaitools.jt-rangelookup;jt-rangelookup;поиск диапазонов значений в JAITools
+905;org.jaitools.jt-utils;jt-utils;утилиты JAITools
+906;org.jaitools.jt-vectorbinarize;jt-vectorbinarize;бинаризация векторных данных в JAITools
+907;org.jaitools.jt-vectorize;jt-vectorize;векторизация в JAITools
+908;org.jaitools.jt-zonalstats;jt-zonalstats;статистика по зонам в JAITools
+909;org.jaitools.operator;operator;операторы обработки данных в JAITools
+910;org.jasypt.jasypt;jasypt;библиотека шифрования Jasypt
+911;org.java.net.substance.substance;substance;библиотека Substance для создания красивых GUI
+912;org.javassist.javassist;javassist;библиотека Javaassist для работы с байт-кодом
+913;org.jboss.arquillian.arquillian-bom;arquillian-bom;объявление зависимостей для Arquillian
+914;org.jboss.arquillian.arquillian-build;arquillian-build;скрипты сборки Arquillian
+915;org.jboss.arquillian.arquillian-parent;arquillian-parent;родительский POM для Arquillian
+916;org.jboss.arquillian.config.arquillian-config-api;arquillian-config-api;API для конфигурации Arquillian
+917;org.jboss.arquillian.config.arquillian-config-impl-base;arquillian-config-impl-base;базовая реализация конфигурации Arquillian
+918;org.jboss.arquillian.config.arquillian-config-parent;arquillian-config-parent;родительский POM для конфигурации Arquillian
+919;org.jboss.arquillian.config.arquillian-config-spi;arquillian-config-spi;SPI для конфигурации Arquillian
+920;org.jboss.arquillian.container.arquillian-container-impl-base;arquillian-container-impl-base;базовая реализация контейнера Arquillian
+921;org.jboss.arquillian.container.arquillian-container-parent;arquillian-container-parent;родительский POM для контейнеров Arquillian
+922;org.jboss.arquillian.container.arquillian-container-spi;arquillian-container-spi;SPI для контейнеров Arquillian
+923;org.jboss.arquillian.container.arquillian-container-test-api;arquillian-container-test-api;API тестирования контейнеров Arquillian
+924;org.jboss.arquillian.container.arquillian-container-test-impl-base;arquillian-container-test-impl-base;базовая реализация тестирования контейнеров Arquillian
+925;org.jboss.arquillian.container.arquillian-container-test-spi;arquillian-container-test-spi;SPI для тестирования контейнеров Arquillian
+926;org.jboss.arquillian.container.arquillian-weld-ee-embedded-1.1;arquillian-weld-ee-embedded-1.1;контейнер Arquillian для Weld EE 1.1
+927;org.jboss.arquillian.core.arquillian-core-api;arquillian-core-api;API ядра Arquillian
+928;org.jboss.arquillian.core.arquillian-core-impl-base;arquillian-core-impl-base;базовая реализация ядра Arquillian
+929;org.jboss.arquillian.core.arquillian-core-parent;arquillian-core-parent;родительский POM для ядра Arquillian
+930;org.jboss.arquillian.core.arquillian-core-spi;arquillian-core-spi;SPI ядра Arquillian
+931;org.jboss.arquillian.example.arquillian-example-domain;arquillian-example-domain;пример приложения на основе домена для Arquillian
+932;org.jboss.arquillian.example.arquillian-example-junit;arquillian-example-junit;пример JUnit тестов для Arquillian
+933;org.jboss.arquillian.example.arquillian-example-parent;arquillian-example-parent;родительский POM для примеров Arquillian
+934;org.jboss.arquillian.example.arquillian-example-testng;arquillian-example-testng;пример TestNG тестов для Arquillian
+935;org.jboss.arquillian.extension.arquillian-drone-bom;arquillian-drone-bom;объявление зависимостей Drone для Arquillian
+936;org.jboss.arquillian.extension.arquillian-warp-bom;arquillian-warp-bom;объявление зависимостей Warp для Arquillian
+937;org.jboss.arquillian.junit.arquillian-junit-container;arquillian-junit-container;контейнер JUnit для Arquillian
+938;org.jboss.arquillian.junit.arquillian-junit-core;arquillian-junit-core;ядро интеграции JUnit в Arquillian
+939;org.jboss.arquillian.junit.arquillian-junit-parent;arquillian-junit-parent;родительский POM для JUnit и Arquillian
+940;org.jboss.arquillian.junit.arquillian-junit-standalone;arquillian-junit-standalone;автономный запускатель JUnit тестов для Arquillian
+941;org.jboss.arquillian.protocol.arquillian-protocol-jmx;arquillian-protocol-jmx;протокол JMX в Arquillian
+942;org.jboss.arquillian.protocol.arquillian-protocol-parent;arquillian-protocol-parent;родительский POM для протоколов Arquillian
+943;org.jboss.arquillian.protocol.arquillian-protocol-servlet;arquillian-protocol-servlet;сервлетный протокол в Arquillian
+944;org.jboss.arquillian.selenium.selenium-bom;selenium-bom;объявление зависимостей Selenium для Arquillian
+945;org.jboss.arquillian.test.arquillian-test-api;arquillian-test-api;API тестов Arquillian
+946;org.jboss.arquillian.test.arquillian-test-impl-base;arquillian-test-impl-base;базовая реализация тестов Arquillian
+947;org.jboss.arquillian.test.arquillian-test-parent;arquillian-test-parent;родительский POM для тестов Arquillian
+948;org.jboss.arquillian.test.arquillian-test-spi;arquillian-test-spi;SPI тестов Arquillian
+949;org.jboss.arquillian.testenricher.arquillian-testenricher-cdi;arquillian-testenricher-cdi;обогатитель тестов CDI для Arquillian
+950;org.jboss.arquillian.testenricher.arquillian-testenricher-ejb;arquillian-testenricher-ejb;обогатитель тестов EJB для Arquillian
+951;org.jboss.arquillian.testenricher.arquillian-testenricher-initialcontext;arquillian-testenricher-initialcontext;обогатитель тестов InitialContext для Arquillian
+952;org.jboss.arquillian.testenricher.arquillian-testenricher-parent;arquillian-testenricher-parent;родительский POM для обогатителей тестов Arquillian
+953;org.jboss.arquillian.testenricher.arquillian-testenricher-resource;arquillian-testenricher-resource;обогатитель тестов ресурсов для Arquillian
+954;org.jboss.arquillian.testng.arquillian-testng-container;arquillian-testng-container;контейнер TestNG для Arquillian
+955;org.jboss.arquillian.testng.arquillian-testng-core;arquillian-testng-core;ядро интеграции TestNG в Arquillian
+956;org.jboss.arquillian.testng.arquillian-testng-parent;arquillian-testng-parent;родительский POM для TestNG и Arquillian
+957;org.jboss.arquillian.testng.arquillian-testng-standalone;arquillian-testng-standalone;автономный запускатель TestNG тестов для Arquillian
+958;org.jboss.dashboard-builder.dashboard-builder-bom;dashboard-builder-bom;модуль описания зависимостей для JBoss Dashboard Builder
+959;org.jboss.ejb3.jboss-ejb3-api;jboss-ejb3-api;API JBoss EJB 3.x
+960;org.jboss.ejb3.jboss-ejb3-build;jboss-ejb3-build;инструменты сборки EJB модулей
+961;org.jboss.ejb3.jboss-ejb3-ext-api;jboss-ejb3-ext-api;расширенный API EJB
+962;org.jboss.integration-platform.jboss-integration-platform-parent;jboss-integration-platform-parent;родительский модуль платформы интеграции
+963;org.jboss.interceptor.jboss-interceptor-api;jboss-interceptor-api;API интерцепторов JBoss
+964;org.jboss.invocation.jboss-invocation;jboss-invocation;запуск методов удалённо
+965;org.jboss.jandex;jandex;инструмент анализа классов Java
+966;org.jboss.javaee.jboss-javaee-parent;jboss-javaee-parent;родительский модуль Java EE API
+967;org.jboss.javaee.jboss-transaction-api;jboss-transaction-api;API транзакций
+968;org.jboss.jboss-common-core;jboss-common-core;общий код JBoss
+969;org.jboss.jboss-dmr;jboss-dmr;DMR модель
+970;org.jboss.jboss-ejb-client;jboss-ejb-client;клиент EJB
+971;org.jboss.jboss-parent;jboss-parent;родительский модуль JBoss
+972;org.jboss.jboss-remote-naming;jboss-remote-naming;удалённое JNDI именование
+973;org.jboss.jboss-transaction-spi;jboss-transaction-spi;SPI транзакций
+974;org.jboss.jboss-vfs;jboss-vfs;виртуальная файловая система
+975;org.jboss.logging.jboss-logging;jboss-logging;логгер JBoss Logging
+976;org.jboss.logging.jboss-logging-annotations;jboss-logging-annotations;аннотации
+977;org.jboss.logging.jboss-logging-tools-parent;jboss-logging-tools-parent;инструменты
+978;org.jboss.logmanager.jboss-logmanager;jboss-logmanager;менеджер логгирования
+979;org.jboss.marshalling.jboss-marshalling;jboss-marshalling;маршалинг
+980;org.jboss.marshalling.jboss-marshalling-osgi;jboss-marshalling-osgi;OSGi
+981;org.jboss.marshalling.jboss-marshalling-parent;jboss-marshalling-parent;родительский
+982;org.jboss.marshalling.jboss-marshalling-river;jboss-marshalling-river;River
+983;org.jboss.marshalling.jboss-marshalling-serial;jboss-marshalling-serial;сериализация
+984;org.jboss.marshalling.tests;tests;тесты
+985;org.jboss.metadata.jboss-as-parent-metadata;jboss-as-parent-metadata;родитель метаданных AS
+986;org.jboss.metadata.jboss-metadata-common;jboss-metadata-common;общие метаданные
+987;org.jboss.metadata.jboss-metadata-ear;jboss-metadata-ear;EAR метаданные
+988;org.jboss.metadata.jboss-metadata-ejb;jboss-metadata-ejb;EJB метаданные
+989;org.jboss.modules.jboss-modules;jboss-modules;модули JBoss
+990;org.jboss.msc.jboss-msc;jboss-msc;Monitor Service Controller
+991;org.jboss.narayana.arjunacore.arjuna;arjuna;ядро системы транзакций Arjuna, включающее службы и инфраструктуру для поддержки атомарности, изоляции и устойчивости транзакций.
+992;org.jboss.narayana.arjunacore.arjunacore;arjunacore;основной функционал Arjuna, в том числе API, поддержку мониторинга и восстановления транзакций.
+993;org.jboss.narayana.arjunacore.arjunacore-all;arjunacore-all;объединяет все необходимые зависимости Arjuna.
+994;org.jboss.narayana.arjunacore.arjunacore-services;arjunacore-services;сервисы ядра Arjuna, такие как сохранение логов, координация репликации.
+995;org.jboss.narayana.arjunacore.txoj;txoj;API управления объектами транзакций на основе TXOJ (Transaction Object).
+996;org.jboss.narayana.common;common;общие артефакты и утилиты проекта Narayana.
+997;org.jboss.narayana.compensations.compensations;compensations;поддержка компенсирующих операций при сбое транзакций.
+998;org.jboss.narayana.ext.ext-all;ext-all;все расширения Arjuna и Narayana.
+999;org.jboss.narayana.jbosstxbridge;jbosstxbridge;мост между системами Narayana и JBoss Transaction Manager.
+1000;org.jboss.narayana.jta.cdi;cdi;интеграция Narayana с CDI через API JTA.
+1001;org.jboss.narayana.jta.jdbc;jdbc;интеграция Narayana с JDBC-драйверами через API JTA.
+1002;org.jboss.narayana.jta.jta;jta;реализация Java Transaction API (JTA).
+1003;org.jboss.narayana.jta.narayana-jta;narayana-jta;основной модуль реализации JTA.
+1004;org.jboss.narayana.jta.narayana-jta-all;narayana-jta-all;все зависимости реализации JTA в Narayana.
+1005;org.jboss.narayana.jta.narayana-spi;narayana-spi;SPI реализации JTA.
+1006;org.jboss.narayana.jts.idlj-idl;idlj-idl;IDL-компилятор IDLJ для описания интерфейсов.
+1007;org.jboss.narayana.jts.jacorb-idl;jacorb-idl;IDL-компилятор JacOrb.
+1008;org.jboss.narayana.jts.jtax;jtax;инструменты для работы с транзакциями в формате JTA (Java Transaction API).
+1009;org.jboss.narayana.jts.jts;jts;расширенная модель Java Transaction Service (JTS).
+1010;org.jboss.narayana.jts.narayana-idl;narayana-idl;IDL для расширенных транзакций.
+1011;org.jboss.narayana.jts.narayana-jts-all;narayana-jts-all;все зависимости JTS в Narayana.
+1012;org.jboss.narayana.jts.narayana-jts-idlj;narayana-jts-idlj;интеграция IDLJ в JTS.
+1013;org.jboss.narayana.jts.narayana-jts-integration;narayana-jts-integration;интеграция JTS в Narayana.
+1014;org.jboss.narayana.jts.narayana-jts-jacorb;narayana-jts-jacorb;интеграция JacOrb в JTS.
+1015;org.jboss.narayana.jts.orbportability;orbportability;портируемость при использовании ORB.
+1016;org.jboss.narayana.narayana-all;narayana-all;все модули проекта.
+1017;org.jboss.narayana.narayana-code-coverage;narayana-code-coverage;определение покрытия кода тестами.
+1018;org.jboss.narayana.narayana-full;narayana-full;полная сборка Narayana.
+1019;org.jboss.narayana.osgi.narayana-osgi-jta;narayana-osgi-jta;интеграция JTA для OSGi.
+1020;org.jboss.narayana.osgi.narayana-osgi-parent;narayana-osgi-parent;родительский модуль OSGi.
+1021;org.jboss.narayana.rts.restat;restat;RESTful интерфейс управления транзакциями.
+1022;org.jboss.narayana.rts.restat-api;restat-api;API RESTful интерфейса.
+1023;org.jboss.narayana.rts.restat-bridge;restat-bridge;мост между RESTful и другими компонентами.
+1024;org.jboss.narayana.rts.restat-integration;restat-integration;интеграция RESTful интерфейса.
+1025;org.jboss.narayana.rts.restat-util;restat-util;утилиты RESTful интерфейса.
+1026;org.jboss.narayana.rts.restat-web;restat-web;веб-часть RESTful интерфейса.
+1027;org.jboss.narayana.rts.rest-tx;rest-tx;реализация RESTful API для управления транзакциями
+1028;org.jboss.narayana.stm.stm;stm;API для sticky (клейких) транзакций.
+1029;org.jboss.narayana.test-utils;test-utils;утилиты для тестирования.
+1030;org.jboss.narayana.txframework.txframework;txframework;каркас или инфраструктура для разработки приложений с использованием транзакционных свойств Narayana.
+1031;org.jboss.narayana.xts.bridge;bridge;мост между Narayana и XTS.
+1032;org.jboss.narayana.xts.byteman_support;byteman_support;интеграция с Byteman для тестирования.
+1033;org.jboss.narayana.xts.jbossxts;jbossxts;интеграция XTS в JBoss Application Server.
+1034;org.jboss.narayana.xts.localjunit;localjunit;инструменты или примеры для локального тестирования XTS с использованием JUnit.
+1035;org.jboss.narayana.xts.recovery;recovery;восстановление после сбоев транзакций.
+1036;org.jboss.narayana.xts.service;service;сервисы XTS.
+1037;org.jboss.narayana.xts.wsas;wsas;связан с интеграцией Narayana и XTS в сервер приложений JBoss AS
+1038;org.jboss.narayana.xts.ws-c11;ws-c11;интеграция Narayana со спецификацией WS-Coordination 1.1.
+1039;org.jboss.narayana.xts.wscf11;wscf11;интеграция Narayana со спецификацией WS-CoordinationFault 1.1.
+1040;org.jboss.narayana.xts.ws-t11;ws-t11;интеграция Narayana со спецификацией WS-Transactions 1.1.
+1041;org.jboss.narayana.xts.wstf-sc007-interop;wstf-sc007-interop;пример тестового приложения.
+1042;org.jboss.narayana.xts.wstx11;wstx11;интеграция Narayana со спецификацией WS-Transactions 1.1.
+1043;org.jboss.narayana.xts.xts-all;xts-all;все зависимости XTS в Narayana.
+1044;org.jboss.narayana.xts.xtstest;xtstest;тесты XTS.
+1045;org.jboss.narayana.xts.xts-test-servlet;xts-test-servlet;тестовый сервлет.
+1046;org.jboss.openjdk-orb.openjdk-orb;openjdk-orb;реализация спецификации Object Request Broker (ORB) на основе OpenJDK, предназначенная для интеграции Java RMI с протоколами CORBA.
+1047;org.jboss.remoting.jboss-remoting;jboss-remoting;библиотека для удаленного взаимодействия между компонентами приложения через TCP/IP или другие транспорты.
+1048;org.jboss.resteasy.jaxrs-api;jaxrs-api;Интерфейс для разработки служб RESTful на основе спецификации JAX-RS.
+1049;org.jboss.resteasy.resteasy-bom;resteasy-bom;модуль, определяющий зависимости платформы RESTEasy.
+1050;org.jboss.resteasy.resteasy-client;resteasy-client;клиентский модуль RESTEasy для вызова RESTful API.
+1051;org.jboss.resteasy.resteasy-dependents;resteasy-dependents;Модуль, определяющий зависимости RESTEasy.
+1052;org.jboss.resteasy.resteasy-jackson2-provider;resteasy-jackson2-provider;модуль интеграции Jackson 2.x с RESTEasy.
+1053;org.jboss.resteasy.resteasy-jackson-provider;resteasy-jackson-provider;интеграция Jackson 1.x с RESTEasy.
+1054;org.jboss.resteasy.resteasy-jaxb-provider;resteasy-jaxb-provider;Реализация провайдера JAXB для работы с XML в RESTEasy.
+1055;org.jboss.resteasy.resteasy-jaxrs;resteasy-jaxrs;модуль основного сервера платформы RESTEasy.
+1056;org.jboss.resteasy.resteasy-jaxrs-all;resteasy-jaxrs-all;все зависимости RESTEasy объединены в один модуль.
+1057;org.jboss.resteasy.resteasy-netty;resteasy-netty;интеграция RESTEasy с высокопроизводительным веб-сервером Netty.
+1058;org.jboss.sasl.jboss-sasl;jboss-sasl;реализация простой аутентификации и уровня безопасности для JBoss.
+1059;org.jboss.security.jboss-negotiation-common;jboss-negotiation-common;общие компоненты для согласования аутентификации.
+1060;org.jboss.security.jboss-negotiation-extras;jboss-negotiation-extras;Дополнительные механизмы переговоров.
+1061;org.jboss.security.jboss-negotiation-project;jboss-negotiation-project;Родительский модуль для проекта переговоров.
+1062;org.jboss.security.jboss-negotiation-spnego;jboss-negotiation-spnego;согласование аутентификации через SPNEGO/Kerberos.
+1063;org.jboss.shrinkwrap.descriptors.shrinkwrap-descriptors-api-base;shrinkwrap-descriptors-api-base;базовый API для дескрипторов.
+1064;org.jboss.shrinkwrap.descriptors.shrinkwrap-descriptors-bom;shrinkwrap-descriptors-bom;определение зависимостей дескрипторов.
+1065;org.jboss.shrinkwrap.descriptors.shrinkwrap-descriptors-parent;shrinkwrap-descriptors-parent;Родительский модуль для дескрипторов.
+1066;org.jboss.shrinkwrap.descriptors.shrinkwrap-descriptors-spi;shrinkwrap-descriptors-spi;SPI для дескрипторов.
+1067;org.jboss.shrinkwrap.resolver.shrinkwrap-resolver-bom;shrinkwrap-resolver-bom;определение зависимостей преобразователя.
+1068;org.jboss.shrinkwrap.shrinkwrap-api;shrinkwrap-api;основной API для упаковки приложений.
+1069;org.jboss.shrinkwrap.shrinkwrap-bom;shrinkwrap-bom;определение зависимостей ShrinkWrap.
+1070;org.jboss.shrinkwrap.shrinkwrap-build-resources;shrinkwrap-build-resources;Создание ресурсов.
+1071;org.jboss.shrinkwrap.shrinkwrap-depchain;shrinkwrap-depchain;отслеживание зависимостей.
+1072;org.jboss.shrinkwrap.shrinkwrap-distribution;shrinkwrap-distribution;дистрибутивы пакетов.
+1073;org.jboss.shrinkwrap.shrinkwrap-impl-base;shrinkwrap-impl-base;базовая реализация API.
+1074;org.jboss.shrinkwrap.shrinkwrap-parent;shrinkwrap-parent;Родительский модуль для ShrinkWrap.
+1075;org.jboss.shrinkwrap.shrinkwrap-spi;shrinkwrap-spi;ShrinkWrap SPI.
+1076;org.jboss.spec.javax.annotation.jboss-annotations-api_1.1_spec;jboss-annotations-api_1.1_spec;спецификация для аннотаций Java версии 1.1.
+1077;org.jboss.spec.javax.annotation.jboss-annotations-api_1.2_spec;jboss-annotations-api_1.2_spec;спецификация для аннотаций Java версии 1.2.
+1078;org.jboss.spec.javax.annotation.jboss-annotations-api_1.3_spec;jboss-annotations-api_1.3_spec;спецификация для аннотаций Java версии 1.3.
+1079;org.jboss.spec.javax.batch.jboss-batch-api_1.0_spec;jboss-batch-api_1.0_spec;спецификация для Java Batch API версии 1.0
+1080;org.jboss.spec.javax.ejb.jboss-ejb-api_3.2_spec;jboss-ejb-api_3.2_spec;спецификация для Java EE Enterprise JavaBeans версии 3.2
+1081;org.jboss.spec.javax.el.jboss-el-api_3.0_spec;jboss-el-api_3.0_spec;спецификация для языка выражений Java EE версии 3.0
+1082;org.jboss.spec.javax.enterprise.concurrent.jboss-concurrency-api_1.0_spec;jboss-concurrency-api_1.0_spec;спецификация для утилит параллелизма Java EE версии 1.0
+1083;org.jboss.spec.javax.faces.jboss-jsf-api_2.2_spec;jboss-jsf-api_2.2_spec;спецификация для JavaServer Faces версии 2.2
+1084;org.jboss.spec.javax.faces.jboss-jsf-api_2.3_spec;jboss-jsf-api_2.3_spec;спецификация для JavaServer Faces версии 2.3
+1085;org.jboss.spec.javax.interceptor.jboss-interceptors-api_1.1_spec;jboss-interceptors-api_1.1_spec;спецификация для перехватчиков Java EE версии 1.1.
+1086;org.jboss.spec.javax.interceptor.jboss-interceptors-api_1.2_spec;jboss-interceptors-api_1.2_spec;спецификация для перехватчиков Java EE версии 1.2.
+1087;org.jboss.spec.javax.jms.jboss-jms-api_1.1_spec;jboss-jms-api_1.1_spec;спецификация для службы сообщений Java версии 1.1
+1088;org.jboss.spec.javax.jms.jboss-jms-api_2.0_spec;jboss-jms-api_2.0_spec;спецификация для службы сообщений Java версии 2.0
+1089;org.jboss.spec.javax.json.jboss-json-api_1.0_spec;jboss-json-api_1.0_spec;спецификация API обработки JSON версии 1.0.
+1090;org.jboss.spec.javax.resource.jboss-connector-api_1.7_spec;jboss-connector-api_1.7_spec;спецификация для адаптеров ресурсов версии 1.7.
+1091;org.jboss.spec.javax.security.jacc.jboss-jacc-api_1.5_spec;jboss-jacc-api_1.5_spec;спецификация для JSR 115, JACC 1.5
+1092;org.jboss.spec.javax.servlet.jboss-servlet-api_3.0_spec;jboss-servlet-api_3.0_spec;спецификация для сервлетов версии 3.0.
+1093;org.jboss.spec.javax.servlet.jboss-servlet-api_3.1_spec;jboss-servlet-api_3.1_spec;спецификация для сервлетов версии 3.1.
+1094;org.jboss.spec.javax.transaction.jboss-transaction-api_1.2_spec;jboss-transaction-api_1.2_spec;спецификация для API транзакций Java версии 1.2.
+1095;org.jboss.spec.javax.ws.rs.jboss-jaxrs-api_2.0_spec;jboss-jaxrs-api_2.0_spec;спецификация для JAX-RS 2.0
+1096;org.jboss.spec.javax.ws.rs.jboss-jaxrs-api_2.1_spec;jboss-jaxrs-api_2.1_spec;спецификация для JAX-RS 2.1
+1097;org.jboss.spec.javax.xml.bind.jboss-jaxb-api_2.3_spec;jboss-jaxb-api_2.3_spec;спецификация для API JAXB 2.3
+1098;org.jboss.spec.jboss-javaee-7.0;jboss-javaee-7.0;дескриптор API Java EE 7.0.
+1099;org.jboss.spec.jboss-javaee-8.0;jboss-javaee-8.0;дескриптор API Java EE 8.0.
+1100;org.jboss.spec.jboss-javaee-all-8.0;jboss-javaee-all-8.0;дескриптор для всех API Java EE 8.0.
+1101;org.jboss.spec.jboss-javaee-web-7.0;jboss-javaee-web-7.0;дескриптор веб-профиля Java EE 7.0.
+1102;org.jboss.spec.jboss-javaee-web-8.0;jboss-javaee-web-8.0;дескриптор веб-профиля Java EE 8.0.
+1103;org.jboss.spec.jboss-specs-parent;jboss-specs-parent;Родительский модуль для спецификаций JBoss
+1104;org.jboss.staxmapper;staxmapper;маршалинг XML с использованием Stax API
+1105;org.jboss.stdio.jboss-stdio;jboss-stdio;стандартное перенаправление ввода-вывода
+1106;org.jboss.threads.jboss-threads;jboss-threads;утилиты для работы с потоками
+1107;org.jboss.weld.weld-api;weld-api;API сварки и событий
+1108;org.jboss.weld.weld-api-bom;weld-api-bom;зависимости Weld API
+1109;org.jboss.weld.weld-api-parent;weld-api-parent;Родительский модуль для Weld API
+1110;org.jboss.weld.weld-core;weld-core;реализация ядра сварки
+1111;org.jboss.weld.weld-core-bom;weld-core-bom;зависимости ядра сварки
+1112;org.jboss.weld.weld-core-parent;weld-core-parent;Родительский модуль для ядра Weld
+1113;org.jboss.weld.weld-parent;weld-parent;Родительский модуль для Weld
+1114;org.jboss.weld.weld-spi;weld-spi;Точки расширения сварного шва
+1115;org.jboss.ws.jbossws-api;jbossws-api;API для платформы веб-сервисов JBossWS
+1116;org.jboss.ws.jbossws-parent;jbossws-parent;Родительский POM для модулей JBossWS
+1117;org.jboss.xnio.xnio-all;xnio-all;пакет со всеми зависимостями XNIO.
+1118;org.jboss.xnio.xnio-api;xnio-api;API для межсетевого ввода-вывода
+1119;org.jboss.xnio.xnio-nio;xnio-nio;реализация XNIO на основе NIO
+1120;org.jbpm.jbpm-bom;jbpm-bom;спецификация для модулей jBPM
+1121;org.jdesktop.appframework;appframework;платформа приложений для приложений Swing.
+1122;org.jdesktop.beansbinding;beansbinding;двунаправленные привязки для JavaBeans
+1123;org.jdesktop.swing-worker;swing-worker;SwingWorker для фоновых задач
+1124;org.jdom.jdom;jdom;привязка XML-данных Java с использованием стиля DOM
+1125;org.jdom.jdom2;jdom2;привязка XML-данных Java с использованием стиля DOM v2.
+1126;org.jetbrains.annotations;annotations;аннотации качества кода.
+1127;org.jetbrains.intellij.deps.trove4j;trove4j;Коллекции для Java
+1128;org.jetbrains.kotlin.kotlin-scripting-common;kotlin-scripting-common;общие сценарии Kotlin
+1129;org.jfree.jcommon;jcommon;Общие компоненты для JFreeChart
+1130;org.jfree.jfreechart;jfreechart;библиотека 2D-диаграмм Java
+1131;org.jfrog.maven.annomojo.maven-plugin-anno;maven-plugin-anno;плагин аннотаций Maven
+1132;org.jfrog.maven.annomojo.maven-plugin-anno-parent;maven-plugin-anno-parent;Родитель плагина
+1133;org.jgroups.jgroups;jgroups;надежная библиотека многоадресной рассылки сообщений.
+1134;org.jogamp.gluegen.gluegen-rt;gluegen-rt;библиотека времени выполнения GlueGen
+1135;org.jogamp.joal.joal;joal;реализация Java OpenAL
+1136;org.jogamp.jocl.jocl;jocl;привязки Java для OpenCL
+1137;org.jogamp.jogl.jogamp-plugin;jogamp-plugin;плагин JOGL
+1138;org.jogamp.jogl.jogl-all;jogl-all;JOGL в комплекте с собственными библиотеками
+1139;org.json.json;json;библиотека JSON для Java
+1140;org.jsoup.jsoup;jsoup;HTML-парсер Java
+1141;org.junit.junit-bom;junit-bom;зависимости JUnit
+1142;org.junit.jupiter.junit-jupiter-api;junit-jupiter-api;API тестирования Юпитера
+1143;org.junit.platform.junit-platform-commons;junit-platform-commons;Общие утилиты
+1144;org.jvnet.jaxb2.maven2.maven-jaxb22-plugin;maven-jaxb22-plugin;плагин генератора кода JAXB 2.2
+1145;org.jvnet.jaxb2.maven2.maven-jaxb2-plugin;maven-jaxb2-plugin;плагин генератора кода JAXB
+1146;org.jvnet.jaxb2.maven2.maven-jaxb2-plugin-core;maven-jaxb2-plugin-core;ядро плагина
+1147;org.jvnet.jaxb2.maven2.maven-jaxb2-plugin-project;maven-jaxb2-plugin-project;проект плагина
+1148;org.kie.kie-bom;kie-bom;Спецификация для ки-артефактов
+1149;org.kie.kie-parent-metadata;kie-parent-metadata;Родительский POM для метаданных KIE
+1150;org.kie.kie-parent-with-dependents;kie-parent-with-dependents;Родитель с зависимостями
+1151;org.kie.kie-platform-bom;kie-platform-bom;спецификация для артефактов платформы kie
+1152;org.kie.uberfire.kie-uberfire-extensions-bom;kie-uberfire-extensions-bom;спецификация для расширений UberFire
+1153;org.la4j.la4j;la4j;библиотека линейной алгебры для Java
+1154;org.libjpegturbo.turbojpeg-wrapper;turbojpeg-wrapper;Java-оболочка TurboJPEG
+1155;org.mockito.mockito-all;mockito-all;Mockito в комплекте со всеми зависимостями
+1156;org.mockito.mockito-core;mockito-core;ядро фреймворка для имитации
+1157;org.mortbay.jetty.jetty;jetty;веб-сервер Jetty и контейнер сервлетов
+1158;org.mortbay.jetty.jetty-naming;jetty-naming;реализация Jetty JNDI
+1159;org.mortbay.jetty.jetty-parent;jetty-parent;Родительский POM для модулей Jetty
+1160;org.mortbay.jetty.jetty-plus;jetty-plus;Дополнительные плагины/модули Jetty
+1161;org.mortbay.jetty.jetty-util;jetty-util;модуль утилит Jetty
+1162;org.mortbay.jetty.project;project;проект Jetty
+1163;org.mortbay.jetty.servlet-api-2.5;servlet-api-2.5;API сервлетов 2.5
+1164;org.mvel.mvel2;mvel2;Выразительный и динамичный язык для Java
+1165;org.netbeans.api.org-jdesktop-layout-parent.RELEASE82.org-jdesktop-layout-parent;org-jdesktop-layout-parent;родительский POM для библиотеки разметки jdesktoplayout в NetBeans
+1166;org.netbeans.api.org-jdesktop-layout.RELEASE82.org-jdesktop-layout;org-jdesktop-layout;библиотека разметки jdesktoplayout в NetBeans
+1167;org.netbeans.api.org-netbeans-api-annotations-common.RELEASE82.org-netbeans-api-annotations-common;org-netbeans-api-annotations-common;API аннотаций в NetBeans
+1168;org.netbeans.api.org-netbeans-api-intent.RELEASE82.org-netbeans-api-intent;org-netbeans-api-intent;API намерений в NetBeans
+1169;org.netbeans.api.org-netbeans-api-io.RELEASE82.org-netbeans-api-io;org-netbeans-api-io;API ввода-вывода в NetBeans
+1170;org.netbeans.api.org-netbeans-api-progress-compat8.RELEASE82.org-netbeans-api-progress-compat8;org-netbeans-api-progress-compat8;совместимость API прогресса в NetBeans
+1171;org.netbeans.api.org-netbeans-api-progress-nb.RELEASE82.org-netbeans-api-progress-nb;org-netbeans-api-progress-nb;API прогресса в NetBeans
+1172;org.netbeans.api.org-netbeans-api-progress.RELEASE82.org-netbeans-api-progress;org-netbeans-api-progress;API прогресса в NetBeans
+1173;org.netbeans.api.org-netbeans-api-search.RELEASE82.org-netbeans-api-search;org-netbeans-api-search;API поиска в NetBeans
+1174;org.netbeans.api.org-netbeans-api-templates.RELEASE82.org-netbeans-api-templates;org-netbeans-api-templates;API шаблонов в NetBeans
+1175;org.netbeans.api.org-netbeans-api-visual.RELEASE82.org-netbeans-api-visual;org-netbeans-api-visual;визуальное API в NetBeans
+1176;org.netbeans.api.org-netbeans-core-multitabs.RELEASE82.org-netbeans-core-multitabs;org-netbeans-core-multitabs;поддержка мультивкладок в NetBeans
+1177;org.netbeans.api.org-netbeans-core-multiview.RELEASE82.org-netbeans-core-multiview;org-netbeans-core-multiview;поддержка мультипредставлений в NetBeans
+1178;org.netbeans.api.org-netbeans-core-netigso.RELEASE82.org-netbeans-core-netigso;org-netbeans-core-netigso;модуль NetIGSO в NetBeans
+1179;org.netbeans.api.org-netbeans-libs-asm.RELEASE82.org-netbeans-libs-asm;org-netbeans-libs-asm;библиотека ASM в NetBeans
+1180;org.netbeans.api.org-netbeans-libs-jsr223.RELEASE82.org-netbeans-libs-jsr223;org-netbeans-libs-jsr223;библиотека JSR223 в NetBeans
+1181;org.netbeans.api.org-netbeans-libs-junit4.RELEASE82.org-netbeans-libs-junit4;org-netbeans-libs-junit4;библиотека JUnit4 в NetBeans
+1182;org.netbeans.api.org-netbeans-libs-osgi.RELEASE82.org-netbeans-libs-osgi;org-netbeans-libs-osgi;библиотека OSGi в NetBeans
+1183;org.netbeans.api.org-netbeans-libs-testng.RELEASE82.org-netbeans-libs-testng;org-netbeans-libs-testng;библиотека TestNG в NetBeans
+1184;org.netbeans.api.org-netbeans-lib-uihandler.RELEASE82.org-netbeans-lib-uihandler;org-netbeans-lib-uihandler;библиотека обработчиков UI в NetBeans
+1185;org.netbeans.api.org-netbeans-modules-autoupdate-services.RELEASE82.org-netbeans-modules-autoupdate-services;org-netbeans-modules-autoupdate-services;службы автообновления в NetBeans
+1186;org.netbeans.api.org-netbeans-modules-autoupdate-ui.RELEASE82.org-netbeans-modules-autoupdate-ui;org-netbeans-modules-autoupdate-ui;UI автообновления в NetBeans
+1187;org.netbeans.api.org-netbeans-modules-editor-mimelookup.RELEASE82.org-netbeans-modules-editor-mimelookup;org-netbeans-modules-editor-mimelookup;сопоставление MIME типов в редакторе NetBeans
+1188;org.netbeans.api.org-netbeans-modules-javahelp.RELEASE82.org-netbeans-modules-javahelp;org-netbeans-modules-javahelp;модуль справки Java в NetBeans
+1189;org.netbeans.api.org-netbeans-modules-keyring.RELEASE82.org-netbeans-modules-keyring;org-netbeans-modules-keyring;API ключей в NetBeans
+1190;org.netbeans.api.org-netbeans-modules-masterfs-ui.RELEASE82.org-netbeans-modules-masterfs-ui;org-netbeans-modules-masterfs-ui;UI файловой системы в NetBeans
+1191;org.netbeans.api.org-netbeans-modules-netbinox.RELEASE82.org-netbeans-modules-netbinox;org-netbeans-modules-netbinox;модуль Netbinox в NetBeans
+1192;org.netbeans.api.org-netbeans-modules-options-api.RELEASE82.org-netbeans-modules-options-api;org-netbeans-modules-options-api;API настроек в NetBeans
+1193;org.netbeans.api.org-netbeans-modules-print.RELEASE82.org-netbeans-modules-print;org-netbeans-modules-print;API печати в NetBeans
+1194;org.netbeans.api.org-netbeans-modules-queries.RELEASE82.org-netbeans-modules-queries;org-netbeans-modules-queries;API запросов в NetBeans
+1195;org.netbeans.api.org-netbeans-modules-sampler.RELEASE82.org-netbeans-modules-sampler;org-netbeans-modules-sampler;API сэмплера в NetBeans
+1196;org.netbeans.api.org-netbeans-modules-sendopts.RELEASE82.org-netbeans-modules-sendopts;org-netbeans-modules-sendopts;модуль отправки параметров в NetBeans
+1197;org.netbeans.api.org-netbeans-modules-settings.RELEASE82.org-netbeans-modules-settings;org-netbeans-modules-settings;API настроек в NetBeans
+1198;org.netbeans.api.org-netbeans-modules-uihandler.RELEASE82.org-netbeans-modules-uihandler;org-netbeans-modules-uihandler;модуль обработчиков UI в NetBeans
+1199;org.netbeans.api.org-netbeans-spi-palette.RELEASE82.org-netbeans-spi-palette;org-netbeans-spi-palette;SPI палитры компонентов в NetBeans
+1200;org.netbeans.api.org-netbeans-spi-quicksearch.RELEASE82.org-netbeans-spi-quicksearch;org-netbeans-spi-quicksearch;SPI быстрого поиска в NetBeans
+1201;org.netbeans.api.org-netbeans-swing-outline.RELEASE82.org-netbeans-swing-outline;org-netbeans-swing-outline;компонент Outline Swing в NetBeans
+1202;org.netbeans.api.org-netbeans-swing-plaf.RELEASE82.org-netbeans-swing-plaf;org-netbeans-swing-plaf;Swing Look and Feel в NetBeans
+1203;org.netbeans.api.org-netbeans-swing-tabcontrol.RELEASE82.org-netbeans-swing-tabcontrol;org-netbeans-swing-tabcontrol;компонент управления вкладками Swing в NetBeans
+1204;org.netbeans.api.org-openide-actions.RELEASE82.org-openide-actions;org-openide-actions;API действий в NetBeans
+1205;org.netbeans.api.org-openide-awt.RELEASE82.org-openide-awt;org-openide-awt;API AWT в NetBeans
+1206;org.netbeans.api.org-openide-compat.RELEASE82.org-openide-compat;org-openide-compat;совместимость в NetBeans
+1207;org.netbeans.api.org-openide-dialogs.RELEASE82.org-openide-dialogs;org-openide-dialogs;API диалогов в NetBeans
+1208;org.netbeans.api.org-openide-execution-compat8.RELEASE82.org-openide-execution-compat8;org-openide-execution-compat8;совместимость выполнения в NetBeans
+1209;org.netbeans.api.org-openide-execution.RELEASE82.org-openide-execution;org-openide-execution;API выполнения в NetBeans
+1210;org.netbeans.api.org-openide-explorer.RELEASE82.org-openide-explorer;org-openide-explorer;API проводника в NetBeans
+1211;org.netbeans.api.org-openide-filesystems-compat8.RELEASE82.org-openide-filesystems-compat8;org-openide-filesystems-compat8;совместимость ФС в NetBeans
+1212;org.netbeans.api.org-openide-filesystems-nb.RELEASE82.org-openide-filesystems-nb;org-openide-filesystems-nb;API ФС NetBeans
+1213;org.netbeans.api.org-openide-filesystems.RELEASE82.org-openide-filesystems;org-openide-filesystems;API файловых систем в NetBeans
+1214;org.netbeans.api.org-openide-io.RELEASE82.org-openide-io;org-openide-io;API ввода-вывода в NetBeans
+1215;org.netbeans.api.org-openide-loaders.RELEASE82.org-openide-loaders;org-openide-loaders;API загрузчиков в NetBeans
+1216;org.netbeans.api.org-openide-modules.RELEASE82.org-openide-modules;org-openide-modules;API модулей в NetBeans
+1217;org.netbeans.api.org-openide-nodes.RELEASE82.org-openide-nodes;org-openide-nodes;API узлов в NetBeans
+1218;org.netbeans.api.org-openide-options.RELEASE82.org-openide-options;org-openide-options;API опций в NetBeans
+1219;org.netbeans.api.org-openide-text.RELEASE82.org-openide-text;org-openide-text;API текста в NetBeans
+1220;org.netbeans.api.org-openide-util-enumerations.RELEASE82.org-openide-util-enumerations;org-openide-util-enumerations;API перечислений в NetBeans
+1221;org.netbeans.api.org-openide-util-lookup.RELEASE82.org-openide-util-lookup;org-openide-util-lookup;API поиска служб в NetBeans
+1222;org.netbeans.api.org-openide-util.RELEASE82.org-openide-util;org-openide-util;API утилит в NetBeans
+1223;org.netbeans.api.org-openide-util-ui.RELEASE82.org-openide-util-ui;org-openide-util-ui;API UI утилит в NetBeans
+1224;org.netbeans.api.org-openide-windows.RELEASE82.org-openide-windows;org-openide-windows;API окон в NetBeans
+1225;org.netbeans.cluster.platform.RELEASE82.platform;platform;кластерная платформа в NetBeans
+1226;org.netbeans.external.asm-all-5.0.1.RELEASE82.asm-all-5.0.1;asm-all-5.0.1;библиотека ASM в NetBeans
+1227;org.netbeans.external.net-java-html-boot-fx.RELEASE82.net-java-html-boot-fx;net-java-html-boot-fx;библиотека Java HTML Boot FX в NetBeans
+1228;org.netbeans.external.net-java-html-boot.RELEASE82.net-java-html-boot;net-java-html-boot;библиотека Java HTML Boot в NetBeans
+1229;org.netbeans.external.net-java-html-boot-script.RELEASE82.net-java-html-boot-script;net-java-html-boot-script;библиотека Java HTML Boot Script в NetBeans
+1230;org.netbeans.external.net-java-html-geo.RELEASE82.net-java-html-geo;net-java-html-geo;библиотека Java HTML Geo в NetBeans
+1231;org.netbeans.external.net-java-html-json.RELEASE82.net-java-html-json;net-java-html-json;библиотека Java HTML JSON в NetBeans
+1232;org.netbeans.external.net-java-html-parent.RELEASE82.net-java-html-parent;net-java-html-parent;родительский POM для Java HTML в NetBeans
+1233;org.netbeans.external.net-java-html.RELEASE82.net-java-html;net-java-html;библиотека Java HTML в NetBeans
+1234;org.netbeans.external.net-java-html-sound.RELEASE82.net-java-html-sound;net-java-html-sound;библиотека Java HTML Sound в NetBeans
+1235;org.netbeans.external.org-netbeans-html-ko4j.RELEASE82.org-netbeans-html-ko4j;org-netbeans-html-ko4j;библиотека KO4J в NetBeans
+1236;org.netbeans.external.org-netbeans-html-xhr4j.RELEASE82.org-netbeans-html-xhr4j;org-netbeans-html-xhr4j;библиотека XHR4J в NetBeans
+1237;org.netbeans.external.osgi.cmpn-4.2.RELEASE82.osgi.cmpn-4.2;osgi.cmpn-4.2;OSGi CMPN в NetBeans
+1238;org.netbeans.external.osgi.core-5.0.0.RELEASE82.osgi.core-5.0.0;osgi.core-5.0.0;OSGi Core в NetBeans
+1239;org.netbeans.external.swing-layout-1.0.3.RELEASE82.swing-layout-1.0.3;swing-layout-1.0.3;библиотека Swing Layout в NetBeans
+1240;org.netbeans.external.testng-6.8.1-dist.RELEASE82.testng-6.8.1-dist;testng-6.8.1-dist;библиотека TestNG в NetBeans
+1241;org.netbeans.external.updater.RELEASE82.updater;updater;модуль обновления в NetBeans
+1242;org.netbeans.lib.awtextra.AbsoluteLayout.SNAPSHOT.AbsoluteLayout;AbsoluteLayout;модуль AbsoluteLayout в NetBeans
+1243;org.netbeans.modules.org-netbeans-bootstrap.RELEASE82.org-netbeans-bootstrap;org-netbeans-bootstrap;модуль загрузки NetBeans
+1244;org.netbeans.modules.org-netbeans-core-execution-parent.RELEASE82.org-netbeans-core-execution-parent;org-netbeans-core-execution-parent;родительский модуль выполнения в NetBeans
+1245;org.netbeans.modules.org-netbeans-core-execution.RELEASE82.org-netbeans-core-execution;org-netbeans-core-execution;модуль выполнения в NetBeans
+1246;org.netbeans.modules.org-netbeans-core-io-ui.RELEASE82.org-netbeans-core-io-ui;org-netbeans-core-io-ui;UI модуль ввода-вывода в NetBeans
+1247;org.netbeans.modules.org-netbeans-core-nativeaccess-parent.RELEASE82.org-netbeans-core-nativeaccess-parent;org-netbeans-core-nativeaccess-parent;родительский модуль доступа к нативному коду в NetBeans
+1248;org.netbeans.modules.org-netbeans-core-nativeaccess.RELEASE82.org-netbeans-core-nativeaccess;org-netbeans-core-nativeaccess;модуль доступа к нативному коду в NetBeans
+1249;org.netbeans.modules.org-netbeans-core-network.RELEASE82.org-netbeans-core-network;org-netbeans-core-network;сетевой модуль ядра NetBeans
+1250;org.netbeans.modules.org-netbeans-core-osgi.RELEASE82.org-netbeans-core-osgi;org-netbeans-core-osgi;модуль OSGi в NetBeans
+1251;org.netbeans.modules.org-netbeans-core-output2.RELEASE82.org-netbeans-core-output2;org-netbeans-core-output2;модуль вывода в NetBeans
+1252;org.netbeans.modules.org-netbeans-core.RELEASE82.org-netbeans-core;org-netbeans-core;ядро NetBeans
+1253;org.netbeans.modules.org-netbeans-core-startup-base.RELEASE82.org-netbeans-core-startup-base;org-netbeans-core-startup-base;базовый модуль запуска NetBeans
+1254;org.netbeans.modules.org-netbeans-core-startup.RELEASE82.org-netbeans-core-startup;org-netbeans-core-startup;модуль запуска NetBeans
+1255;org.netbeans.modules.org-netbeans-core-ui.RELEASE82.org-netbeans-core-ui;org-netbeans-core-ui;UI модуль ядра NetBeans
+1256;org.netbeans.modules.org-netbeans-core-windows.RELEASE82.org-netbeans-core-windows;org-netbeans-core-windows;модуль управления окнами в NetBeans
+1257;org.netbeans.modules.org-netbeans-libs-felix.RELEASE82.org-netbeans-libs-felix;org-netbeans-libs-felix;модуль Felix в NetBeans
+1258;org.netbeans.modules.org-netbeans-libs-jna-platform.RELEASE82.org-netbeans-libs-jna-platform;org-netbeans-libs-jna-platform;платформенный JNA модуль в NetBeans
+1259;org.netbeans.modules.org-netbeans-libs-jna.RELEASE82.org-netbeans-libs-jna;org-netbeans-libs-jna;JNA модуль в NetBeans
+1260;org.netbeans.modules.org-netbeans-modules-applemenu.RELEASE82.org-netbeans-modules-applemenu;org-netbeans-modules-applemenu;модуль меню Apple в NetBeans
+1261;org.netbeans.modules.org-netbeans-modules-autoupdate-cli.RELEASE82.org-netbeans-modules-autoupdate-cli;org-netbeans-modules-autoupdate-cli;CLI для автообновления в NetBeans
+1262;org.netbeans.modules.org-netbeans-modules-autoupdate-parent-RELEASE82.RELEASE82.org-netbeans-modules-autoupdate-parent;org-netbeans-modules-autoupdate-parent;родительский модуль автообновления в NetBeans
+1263;org.netbeans.modules.org-netbeans-modules-core-kit.RELEASE82.org-netbeans-modules-core-kit;org-netbeans-modules-core-kit;модуль набора ядра NetBeans
+1264;org.netbeans.modules.org-netbeans-modules-editor-mimelookup-impl.RELEASE82.org-netbeans-modules-editor-mimelookup-impl;org-netbeans-modules-editor-mimelookup-impl;модуль сопоставления MIME типов редактора в NetBeans
+1265;org.netbeans.modules.org-netbeans-modules-favorites.RELEASE82.org-netbeans-modules-favorites;org-netbeans-modules-favorites;модуль избранного в NetBeans
+1266;org.netbeans.modules.org-netbeans-modules-junitlib.RELEASE82.org-netbeans-modules-junitlib;org-netbeans-modules-junitlib;библиотечный модуль JUnit в NetBeans
+1267;org.netbeans.modules.org-netbeans-modules-junit-parent.-RELEASE82.org-netbeans-modules-junit-parent;org-netbeans-modules-junit-parent;родительский модуль JUnit в NetBeans
+1268;org.netbeans.modules.org-netbeans-modules-keyring-fallback.RELEASE82.org-netbeans-modules-keyring-fallback;org-netbeans-modules-keyring-fallback;резервный модуль хранилища ключей в NetBeans
+1269;org.netbeans.modules.org-netbeans-modules-keyring-impl.RELEASE82.org-netbeans-modules-keyring-impl;org-netbeans-modules-keyring-impl;модуль реализации хранилища ключей в NetBeans
+1270;org.netbeans.modules.org-netbeans-modules-keyring-parent.RELEASE82.org-netbeans-modules-keyring-parent;org-netbeans-modules-keyring-parent;родительский модуль хранилища ключей в NetBeans
+1271;org.netbeans.modules.org-netbeans-modules-masterfs-linux.RELEASE82.org-netbeans-modules-masterfs-linux;org-netbeans-modules-masterfs-linux;Linux модуль главной ФС в NetBeans
+1272;org.netbeans.modules.org-netbeans-modules-masterfs-macosx.RELEASE82.org-netbeans-modules-masterfs-macosx;org-netbeans-modules-masterfs-macosx;MacOS модуль главной ФС в NetBeans
+1273;org.netbeans.modules.org-netbeans-modules-masterfs-nio2.RELEASE82.org-netbeans-modules-masterfs-nio2;org-netbeans-modules-masterfs-nio2;NIO2 модуль главной ФС в NetBeans
+1274;org.netbeans.modules.org-netbeans-modules-masterfs-parent.RELEASE82.org-netbeans-modules-masterfs-parent;org-netbeans-modules-masterfs-parent;родительский модуль главной ФС в NetBeans
+1275;org.netbeans.modules.org-netbeans-modules-masterfs.RELEASE82.org-netbeans-modules-masterfs;org-netbeans-modules-masterfs;модуль главной ФС в NetBeans
+1276;org.netbeans.modules.org-netbeans-modules-masterfs-windows.RELEASE82.org-netbeans-modules-masterfs-windows;org-netbeans-modules-masterfs-windows;Windows модуль главной ФС в NetBeans
+1277;org.netbeans.modules.org-netbeans-modules-options-keymap.RELEASE82.org-netbeans-modules-options-keymap;org-netbeans-modules-options-keymap;модуль настройки keymap в NetBeans
+1278;org.netbeans.modules.org-netbeans-modules-progress-ui.RELEASE82.org-netbeans-modules-progress-ui;org-netbeans-modules-progress-ui;UI модуль прогресса в NetBeans
+1279;org.netbeans.modules.org-netbeans-modules-spi-actions.RELEASE82.org-netbeans-modules-spi-actions;org-netbeans-modules-spi-actions;SPI модуль действий в NetBeans
+1280;org.netbeans.modules.org-netbeans-modules-templates.RELEASE82.org-netbeans-modules-templates;org-netbeans-modules-templates;модуль шаблонов в NetBeans
+1281;org.netbeans.modules.org-netbeans-osgi-parent.RELEASE82.org-netbeans-osgi-parent;org-netbeans-osgi-parent;родительский OSGi модуль в NetBeans
+1282;org.netbeans.modules.org-netbeans-uihandler-parent-RELEASE82.RELEASE82.org-netbeans-uihandler-parent;org-netbeans-uihandler-parent;родительский модуль обработчиков UI в NetBeans
+1283;org.objenesis.objenesis;objenesis;библиотека Objensis для создания объектов без вызова конструктора
+1284;org.objenesis.objenesis-parent;objenesis-parent;родительский POM для Objensis
+1285;org.opengeo.geodb;geodb;база геоданных от OpenGeo
+1286;org.opengeo.geodb-parent;geodb-parent;родительский POM для geodb
+1287;org.openjdk.jol.jol-core;jol-core;библиотека JOL (Java Object Layout)
+1288;org.openjdk.jol.jol-parent;jol-parent;родительский POM для JOL
+1289;org.openoffice.juh;juh;Java UNO Helper API библиотека OpenOffice
+1290;org.openoffice.jurt;jurt;библиотека runtime UNO компонентов OpenOffice
+1291;org.openoffice.ridl;ridl;библиотека IDL компилятора OpenOffice
+1292;org.openoffice.unoil;unoil;UNO Intermediate Language библиотека OpenOffice
+1293;org.opentest4j.opentest4j;opentest4j;библиотека для тестирования OpenTest4J
+1294;org.ops4j.base;base;базовые классы от Ops4j
+1295;org.ops4j.base.ops4j-base-io;ops4j-base-io;модуль ввода-вывода Ops4j Base
+1296;org.ops4j.base.ops4j-base-lang;ops4j-base-lang;модуль языка Ops4j Base
+1297;org.ops4j.base.ops4j-base-monitors;ops4j-base-monitors;модуль мониторинга Ops4j Base
+1298;org.ops4j.base.ops4j-base-store;ops4j-base-store;модуль хранилища Ops4j Base
+1299;org.ops4j.master;master;мастер сборка Ops4j
+1300;org.ops4j.pax.swissbox;swissbox;набор инструментов Pax Swissbox от Ops4j
+1301;org.ops4j.pax.swissbox.pax-swissbox-bnd;pax-swissbox-bnd;интеграция с Bnd в Pax Swissbox
+1302;org.ops4j.pax.swissbox.pax-swissbox-tinybundles;pax-swissbox-tinybundles;модуль TinyBundles в Pax Swissbox
+1303;org.optaplanner.optaplanner-bom;optaplanner-bom;BOM для OptaPlanner
+1304;org.osgi.org.osgi.compendium;org.osgi.compendium;спецификации OSGi Compendium
+1305;org.osgi.org.osgi.core;org.osgi.core;спецификации OSGi Core
+1306;org.ow2.asm.asm;asm;ядро библиотеки ASM для работы с байт-кодом Java
+1307;org.ow2.asm.asm-all;asm-all;упакованный в один JAR вариант библиотеки ASM
+1308;org.ow2.asm.asm-analysis;asm-analysis;анализаторы байт-кода на базе ASM
+1309;org.ow2.asm.asm-commons;asm-commons;общие классы ASM
+1310;org.ow2.asm.asm-parent;asm-parent;родительский POM для ASM
+1311;org.ow2.asm.asm-tree;asm-tree;работа с деревом ASM
+1312;org.ow2.asm.asm-util;asm-util;утилиты ASM
+1313;org.ow2.asm.org-netbeans-libs-testng-parent.RELEASE82.org-netbeans-libs-testng-parent;org-netbeans-libs-testng-parent;родительский POM библиотеки TestNG в NetBeans (копия предыдущего ответа)
+1314;org.ow2.ow2;ow2;проекты fondation OW2
+1315;org.owasp.encoder.encoder;encoder;библиотека кодирования данных от OWASP Encoder
+1316;org.owasp.encoder.encoder-parent;encoder-parent;родительский POM для OWASP Encoder
+1317;org.picketbox.picketbox;picketbox;фреймворк безопасности PicketBox от JBoss
+1318;org.picketbox.picketbox-aggregator-pom;picketbox-aggregator-pom;объединяющий POM для PicketBox
+1319;org.picketbox.picketbox-bare;picketbox-bare;легковесный PicketBox
+1320;org.picketbox.picketbox-commons;picketbox-commons;общие классы PicketBox
+1321;org.picketbox.picketbox-infinispan;picketbox-infinispan;интеграция PicketBox с Infinispan
+1322;org.picketbox.picketbox-parent;picketbox-parent;родительский POM для PicketBox
+1323;org.postgis.postgis-jdbc;postgis-jdbc;PostgreSQL/PostGIS JDBC драйвер
+1324;org.postgresql.pgjdbc-core-parent;pgjdbc-core-parent;родительский POM для Postgres JDBC
+1325;org.postgresql.pgjdbc-versions;pgjdbc-versions;POM версий Postgres JDBC
+1326;org.postgresql.postgresql;postgresql;база данных PostgreSQL
+1327;org.primefaces.primefaces;primefaces;библиотека PrimeFaces для JSF
+1328;org.projectlombok.lombok;lombok;библиотека Project Lombok для автогенерации кода
+1329;org.quartz-scheduler.internal.quartz-commonj;quartz-commonj;модуль CommonJ для Quartz
+1330;org.quartz-scheduler.internal.quartz-core;quartz-core;ядро планировщика Quartz
+1331;org.quartz-scheduler.internal.quartz-jboss;quartz-jboss;модуль JBoss для Quartz
+1332;org.quartz-scheduler.internal.quartz-oracle;quartz-oracle;модуль Oracle для Quartz
+1333;org.quartz-scheduler.internal.quartz-plugins;quartz-plugins;модуль плагинов Quartz
+1334;org.quartz-scheduler.internal.quartz-stubs;quartz-stubs;модуль заглушек Quartz
+1335;org.quartz-scheduler.internal.quartz-weblogic;quartz-weblogic;модуль WebLogic для Quartz
+1336;org.quartz-scheduler.quartz;quartz;основной модуль Quartz
+1337;org.quartz-scheduler.quartz-jobs;quartz-jobs;модуль заданий Quartz
+1338;org.quartz-scheduler.quartz-parent;quartz-parent;родительский POM для Quartz
+1339;org.reactivestreams.reactive-streams;reactive-streams;спецификация Reactive Streams
+1340;org.reflections.reflections;reflections;библиотека Reflections для рефлексии
+1341;org.restlet.org.restlet;org.restlet;библиотека Restlet для RESTful web
+1342;org.restlet.org.restlet.ext.freemarker;org.restlet.ext.freemarker;расширение Freemarker для Restlet
+1343;org.restlet.org.restlet.ext.json;org.restlet.ext.json;расширение JSON для Restlet
+1344;org.restlet.org.restlet.ext.spring;org.restlet.ext.spring;расширение Spring для Restlet
+1345;org.richfaces.core.richfaces-core-api;richfaces-core-api;API ядра RichFaces
+1346;org.richfaces.core.richfaces-core-impl;richfaces-core-impl;реализация ядра RichFaces
+1347;org.richfaces.core.richfaces-core-parent;richfaces-core-parent;родительский POM ядра RichFaces
+1348;org.richfaces.richfaces-bom;richfaces-bom;объявление зависимостей RichFaces
+1349;org.richfaces.richfaces-parent;richfaces-parent;родительский POM RichFaces
+1350;org.richfaces.richfaces-root-parent;richfaces-root-parent;корневой родительский POM RichFaces
+1351;org.richfaces.ui.common.richfaces-ui-common-aggregator;richfaces-ui-common-aggregator;агрегатор общих модулей UI RichFaces
+1352;org.richfaces.ui.common.richfaces-ui-common-api;richfaces-ui-common-api;API общих модулей UI RichFaces
+1353;org.richfaces.ui.common.richfaces-ui-common-ui;richfaces-ui-common-ui;реализация общих модулей UI RichFaces
+1354;org.richfaces.ui.core.richfaces-ui-core-aggregator;richfaces-ui-core-aggregator;агрегатор основных модулей UI RichFaces
+1355;org.richfaces.ui.core.richfaces-ui-core-api;richfaces-ui-core-api;API основных модулей UI RichFaces
+1356;org.richfaces.ui.core.richfaces-ui-core-ui;richfaces-ui-core-ui;реализация основных модулей UI RichFaces
+1357;org.richfaces.ui.dnd.richfaces-ui-dnd-aggregator;richfaces-ui-dnd-aggregator;агрегатор модулей DnD RichFaces
+1358;org.richfaces.ui.dnd.richfaces-ui-dnd-api;richfaces-ui-dnd-api;API модулей DnD RichFaces
+1359;org.richfaces.ui.dnd.richfaces-ui-dnd-ui;richfaces-ui-dnd-ui;реализация модулей DnD RichFaces
+1360;org.richfaces.ui.input.richfaces-ui-input-aggregator;richfaces-ui-input-aggregator;агрегатор модулей ввода RichFaces
+1361;org.richfaces.ui.input.richfaces-ui-input-api;richfaces-ui-input-api;API модулей ввода RichFaces
+1362;org.richfaces.ui.input.richfaces-ui-input-ui;richfaces-ui-input-ui;реализация модулей ввода RichFaces
+1363;org.richfaces.ui.iteration.richfaces-ui-iteration-aggregator;richfaces-ui-iteration-aggregator;агрегатор итерационных модулей RichFaces
+1364;org.richfaces.ui.iteration.richfaces-ui-iteration-api;richfaces-ui-iteration-api;API итерационных модулей RichFaces
+1365;org.richfaces.ui.iteration.richfaces-ui-iteration-ui;richfaces-ui-iteration-ui;реализация итерационных модулей RichFaces
+1366;org.richfaces.ui.misc.richfaces-ui-misc-aggregator;richfaces-ui-misc-aggregator;агрегатор разных модулей UI RichFaces
+1367;org.richfaces.ui.misc.richfaces-ui-misc-ui;richfaces-ui-misc-ui;реализация разных модулей UI RichFaces
+1368;org.richfaces.ui.output.richfaces-ui-output-aggregator;richfaces-ui-output-aggregator;агрегатор вывода модулей RichFaces
+1369;org.richfaces.ui.output.richfaces-ui-output-api;richfaces-ui-output-api;API вывода модулей RichFaces
+1370;org.richfaces.ui.output.richfaces-ui-output-ui;richfaces-ui-output-ui;реализация вывода модулей RichFaces
+1371;org.richfaces.ui.richfaces-components-api;richfaces-components-api;API компонентов RichFaces
+1372;org.richfaces.ui.richfaces-components-ui;richfaces-components-ui;реализация компонентов RichFaces
+1373;org.richfaces.ui.richfaces-ui-aggregator;richfaces-ui-aggregator;агрегатор модулей UI RichFaces
+1374;org.richfaces.ui.richfaces-ui-assembler;richfaces-ui-assembler;сборщик UI модулей RichFaces
+1375;org.richfaces.ui.richfaces-ui-parent;richfaces-ui-parent;родительский POM UI модулей RichFaces
+1376;org.richfaces.ui.static-resources;static-resources;статические ресурсы RichFaces UI
+1377;org.richfaces.ui.validator.richfaces-ui-validator-aggregator;richfaces-ui-validator-aggregator;агрегатор валидации RichFaces UI
+1378;org.richfaces.ui.validator.richfaces-ui-validator-api;richfaces-ui-validator-api;API валидации RichFaces UI
+1379;org.richfaces.ui.validator.richfaces-ui-validator-ui;richfaces-ui-validator-ui;реализация валидации RichFaces UI
+1380;org.rnorth.duct-tape.duct-tape;duct-tape;служебная библиотека для склеивания вещей скотчем.
+1381;org.rnorth.tcp-unix-socket-proxy;tcp-unix-socket-proxy;прокси для подключения TCP-клиентов к сокетам домена UNIX.
+1382;org.rnorth.visible-assertions.visible-assertions;visible-assertions;Библиотека для тестов с видимыми утверждениями.
+1383;org.scannotation.scannotation;scannotation;платформа обработки аннотаций для инструментов анализа.
+1384;org.scijava.native-lib-loader;native-lib-loader;логика загрузки встроенной библиотеки для SciJava.
+1385;org.scijava.pom-scijava;pom-scijava;родительский POM для модулей SciJava.
+1386;org.slf4j.jcl-over-slf4j;jcl-over-slf4j;мост ведения журналов Jakarta Commons для SLF4J.
+1387;org.slf4j.slf4j-api;slf4j-api;общий интерфейс для фреймворков ведения журналов.
+1388;org.slf4j.slf4j-ext;slf4j-ext;модуль расширения для библиотеки SLF4J.
+1389;org.slf4j.slf4j-jdk14;slf4j-jdk14;привязка SLF4J для ведения журнала JDK 1.4+.
+1390;org.slf4j.slf4j-log4j12;slf4j-log4j12;привязка SLF4J для Log4j 1.2.
+1391;org.slf4j.slf4j-parent;slf4j-parent;общий родительский элемент для модулей SLF4J.
+1392;org.slf4j.slf4j-simple;slf4j-simple;Простая реализация API SLF4J.
+1393;org.sonatype.aether.aether;aether;классы реализации Aether.
+1394;org.sonatype.aether.aether-api;aether-api;API ядра Aether.
+1395;org.sonatype.aether.aether-impl;aether-impl;внутренности реализации Aether.
+1396;org.sonatype.aether.aether-parent;aether-parent;родительский POM для модулей Aether.
+1397;org.sonatype.aether.aether-spi;aether-spi;интерфейс поставщика услуг Aether.
+1398;org.sonatype.aether.aether-util;aether-util;служебные классы Aether.
+1399;org.sonatype.forge.forge-parent;forge-parent;родительский модуль для модулей forge.
+1400;org.sonatype.gossip.gossip;gossip;компонент обнаружения служб. Программный интерфейс используется для упрощения разработки Java-приложений и стандартизации программных интерфейсов для Java.  Исходные тексты программы написаны на языке программирования Java.
+1401;org.sonatype.gshell.commands.gshell-artifact;gshell-artifact;Команды для работы с артефактами.
+1402;org.sonatype.gshell.commands.gshell-commands;gshell-commands;основные классы команд gshell.
+1403;org.sonatype.gshell.commands.gshell-file;gshell-file;Команды для работы с файлами.
+1404;org.sonatype.gshell.commands.gshell-network;gshell-network;Команды для сетевых операций.
+1405;org.sonatype.gshell.commands.gshell-shell;gshell-shell;команды, связанные с оболочкой (терминалом).
+1406;org.sonatype.gshell.gshell;gshell;оболочка Groovy.
+1407;org.sonatype.gshell.gshell-assembly;gshell-assembly;конфигурация сборки для дистрибутива GShell.
+1408;org.sonatype.gshell.gshell-bootstrap;gshell-bootstrap;jar-файлы начальной загрузки для GShell.
+1409;org.sonatype.gshell.gshell-core;gshell-core;основные классы для платформы GShell.
+1410;org.sonatype.gshell.gshell-io;gshell-io;классы ввода-вывода для GShell.
+1411;org.sonatype.gshell.gshell-plexus;gshell-plexus;интеграция Plexus для GShell.
+1412;org.sonatype.oss.oss-parent;oss-parent;родительский POM для проектов Sonatype OSS.
+1413;org.sonatype.plexus.plexus-build-api;plexus-build-api;API для плагинов сборки Plexus.
+1414;org.sonatype.plexus.plexus-cipher;plexus-cipher;поддержка шифрования/дешифрования.
+1415;org.sonatype.plexus.plexus-sec-dispatcher;plexus-sec-dispatcher;компоненты, связанные с безопасностью.
+1416;org.sonatype.sisu.inject.containers;containers;классы контейнеров внедрения зависимостей.
+1417;org.sonatype.sisu.inject.guava-parent;guava-parent;Родитель для модулей на основе Guava.
+1418;org.sonatype.sisu.inject.guice-bean;guice-bean;интеграция Guice для внедрения Bean-компонентов.
+1419;org.sonatype.sisu.inject.guice-bean-binders;guice-bean-binders;помощники привязки для Guice.
+1420;org.sonatype.sisu.inject.guice-bean-containers;guice-bean-containers;интеграция Guice для контейнеров.
+1421;org.sonatype.sisu.inject.guice-bean-converters;guice-bean-converters;интеграция Guice для конвертеров.
+1422;org.sonatype.sisu.inject.guice-bean-inject;guice-bean-inject;классы, связанные с внедрением для Guice.
+1423;org.sonatype.sisu.inject.guice-bean-locators;guice-bean-locators;интеграция Guice для классов локаторов.
+1424;org.sonatype.sisu.inject.guice-bean-reflect;guice-bean-reflect;интеграция отражений для Guice.
+1425;org.sonatype.sisu.inject.guice-bean-scanners;guice-bean-scanners;интеграция сканирования bean-компонентов для Guice.
+1426;org.sonatype.sisu.inject.guice-parent;guice-parent;общий родительский элемент для модулей Guice.
+1427;org.sonatype.sisu.inject.guice-plexus;guice-plexus;интеграция Plexus для Guice.
+1428;org.sonatype.sisu.inject.guice-plexus-binders;guice-plexus-binders;помощники привязки Plexus для Guice.
+1429;org.sonatype.sisu.inject.guice-plexus-converters;guice-plexus-converters;интеграция конвертера для Plexus/Guice.
+1430;org.sonatype.sisu.inject.guice-plexus-locators;guice-plexus-locators;интеграция локаторов для Plexus/Guice.
+1431;org.sonatype.sisu.inject.guice-plexus-metadata;guice-plexus-metadata;сопоставление метаданных Plexus для Guice.
+1432;org.sonatype.sisu.inject.guice-plexus-scanners;guice-plexus-scanners;интеграция сканера для Plexus/Guice.
+1433;org.sonatype.sisu.inject.guice-plexus-shim;guice-plexus-shim;слой прокладки для Plexus/Guice.
+1434;org.sonatype.sisu.sisu-guava;sisu-guava;Зависимость для библиотеки Guava.
+1435;org.sonatype.sisu.sisu-guice;sisu-guice;основной модуль для интеграции Guice.
+1436;org.sonatype.sisu.sisu-inject;sisu-inject;Общие интерфейсы внедрения.
+1437;org.sonatype.sisu.sisu-inject-bean;sisu-inject-bean;классическая поддержка внедрения зависимостей.
+1438;org.sonatype.sisu.sisu-inject-plexus;sisu-inject-plexus;библиотеки интеграции Plexus.
+1439;org.sonatype.sisu.sisu-parent;sisu-parent;родительский POM для всех модулей Sisu.
+1440;org.sonatype.spice.spice-parent;spice-parent;родительский POM для плагинов Spice (помощник по сборке).
+1441;org.springframework.batch.spring-batch-core;spring-batch-core;основная логика обработки Spring Batch.
+1442;org.springframework.batch.spring-batch-infrastructure;spring-batch-infrastructure;классы инфраструктуры Spring Batch
+1443;org.springframework.batch.spring-batch-parent;spring-batch-parent;родительский POM модулей Spring Batch
+1444;org.springframework.ldap.spring-ldap-core;spring-ldap-core;основные классы для Spring LDAP
+1445;org.springframework.ldap.spring-ldap-ldif-core;spring-ldap-ldif-core;поддержка LDIF в Spring LDAP
+1446;org.springframework.ldap.spring-ldap-parent;spring-ldap-parent;родительский POM модулей Spring LDAP
+1447;org.springframework.ldap.spring-ldap-test;spring-ldap-test;утилиты тестирования для Spring LDAP
+1448;org.springframework.security.spring-security-config;spring-security-config;поддержка конфигурации безопасности
+1449;org.springframework.security.spring-security-core;spring-security-core;основные компоненты безопасности
+1450;org.springframework.security.spring-security-crypto;spring-security-crypto;Криптографические утилиты
+1451;org.springframework.security.spring-security-ldap;spring-security-ldap;поддержка аутентификации LDAP
+1452;org.springframework.security.spring-security-web;spring-security-web;интеграция веб-безопасности
+1453;org.springframework.spring-aop;spring-aop;поддержка АОП
+1454;org.springframework.spring-asm;spring-asm;библиотеки манипулирования байт-кодом
+1455;org.springframework.spring-beans;spring-beans;поддержка Beans
+1456;org.springframework.spring-context;spring-context;Контексты приложения
+1457;org.springframework.spring-context-support;spring-context-support;дополнительные классы поддержки контекста.
+1458;org.springframework.spring-core;spring-core;основные утилиты
+1459;org.springframework.spring-expression;spring-expression;поддержка языка выражений
+1460;org.springframework.spring-jdbc;spring-jdbc;поддержка JDBC
+1461;org.springframework.spring-parent;spring-parent;родительский POM для всех модулей Spring Framework
+1462;org.springframework.spring-test;spring-test;утилиты тестирования
+1463;org.springframework.spring-tx;spring-tx;Управление транзакциями
+1464;org.springframework.spring-web;spring-web;веб-поддержка
+1465;org.springframework.spring-webmvc;spring-webmvc;платформа MVC
+1466;org.swinglabs.swing-layout;swing-layout;пользовательский менеджер компоновки для Swing
+1467;org.swinglabs.swingx.swingx-action;swingx-action;модуль «Действия»
+1468;org.swinglabs.swingx.swingx-autocomplete;swingx-autocomplete;компонент автозаполнения
+1469;org.swinglabs.swingx.swingx-common;swingx-common;Общие утилиты
+1470;org.swinglabs.swingx.swingx-core;swingx-core;основные компоненты SwingX
+1471;org.swinglabs.swingx.swingx-graphics;swingx-graphics;Графические компоненты
+1472;org.swinglabs.swingx.swingx-mavensupport;swingx-mavensupport;поддержка Maven
+1473;org.swinglabs.swingx.swingx-painters;swingx-painters;Пользовательские рисователи
+1474;org.swinglabs.swingx.swingx-plaf;swingx-plaf;подключаемый внешний вид
+1475;org.swinglabs.swingx.swingx-project;swingx-project;определения родительского проекта
+1476;org.testcontainers.database-commons;database-commons;общая логика тестирования базы данных.
+1477;org.testcontainers.jdbc;jdbc;поддержка соединения JDBC
+1478;org.testcontainers.postgresql;postgresql;образ контейнера PostgreSQL
+1479;org.testcontainers.testcontainers;testcontainers;оркестровка контейнеров
+1480;org.testng.testng;testng;платформа TestNG
+1481;org.tukaani.xz;xz;библиотека сжатия XZ
+1482;org.vafer.jdependenty;jdependenty;инструмент анализатора зависимостей.
+1483;org.w3c.css.sac;sac;поддержка синтаксического анализа CSS
+1484;org.wicketstuff.htmlvalidator;htmlvalidator;интеграция проверки HTML для Wicket
+1485;org.wildfly.arquillian.wildfly-arquillian-common;wildfly-arquillian-common;общие классы, используемые интеграцией WildFly Arquillian.
+1486;org.wildfly.arquillian.wildfly-arquillian-common-domain;wildfly-arquillian-common-domain;развертывание и управление доменом.
+1487;org.wildfly.arquillian.wildfly-arquillian-container-domain-managed;wildfly-arquillian-container-domain-managed;Контейнер домена в управляемом режиме.
+1488;org.wildfly.arquillian.wildfly-arquillian-container-domain-remote;wildfly-arquillian-container-domain-remote;Контейнер домена в удаленном режиме.
+1489;org.wildfly.arquillian.wildfly-arquillian-container-embedded;wildfly-arquillian-container-embedded;конфигурация встроенного контейнера.
+1490;org.wildfly.arquillian.wildfly-arquillian-container-managed;wildfly-arquillian-container-managed;конфигурация управляемого контейнера.
+1491;org.wildfly.arquillian.wildfly-arquillian-container-remote;wildfly-arquillian-container-remote;настройка удаленного контейнера.
+1492;org.wildfly.arquillian.wildfly-arquillian-parent;wildfly-arquillian-parent;родительский POM для WildFly Arquillian.
+1493;org.wildfly.arquillian.wildfly-arquillian-protocol-jmx;wildfly-arquillian-protocol-jmx;протокол JMX для управления контейнером.
+1494;org.wildfly.bom.jboss-bom-parent;jboss-bom-parent;родительский POM для спецификаций.
+1495;org.wildfly.bom.jboss-javaee-7.0-wildfly;jboss-javaee-7.0-wildfly;спецификация для Java EE 7 на WildFly.
+1496;org.wildfly.bom.jboss-javaee-7.0-wildfly-with-hibernate3;jboss-javaee-7.0-wildfly-with-hibernate3;включает Hibernate 3.
+1497;org.wildfly.bom.jboss-javaee-7.0-wildfly-with-tools;jboss-javaee-7.0-wildfly-with-tools;включает инструменты разработчика.
+1498;org.wildfly.bom.jboss-javaee-7.0-with-hibernate;jboss-javaee-7.0-with-hibernate;Java EE 7 с Hibernate.
+1499;org.wildfly.bom.jboss-javaee-7.0-with-tools;jboss-javaee-7.0-with-tools;Java EE 7 с инструментами.
+1500;org.wildfly.checkstyle.wildfly-checkstyle-config;wildfly-checkstyle-config;конфигурация Checkstyle.
+1501;org.wildfly.common.wildfly-common;wildfly-common;общие классы для проектов WildFly.
+1502;org.wildfly.core.wildfly-cli;wildfly-cli;интерфейс командной строки для управления серверами.
+1503;org.wildfly.core.wildfly-controller;wildfly-controller;реализация центрального контроллера контейнера.
+1504;org.wildfly.core.wildfly-controller-client;wildfly-controller-client;Клиентские библиотеки для контроллера.
+1505;org.wildfly.core.wildfly-core-build;wildfly-core-build;логика сборки и файлы.
+1506;org.wildfly.core.wildfly-core-dist;wildfly-core-dist;Упаковка дистрибутива.
+1507;org.wildfly.core.wildfly-core-feature-pack;wildfly-core-feature-pack;пакеты дополнительных функций.
+1508;org.wildfly.core.wildfly-core-model-test;wildfly-core-model-test;тесты модели на контроллере.
+1509;org.wildfly.core.wildfly-core-model-test-controller-optional;wildfly-core-model-test-controller-optional;дополнительные тесты модели контроллера.
+1510;org.wildfly.core.wildfly-core-model-test-framework;wildfly-core-model-test-framework;Тестовая среда для модельных тестов.
+1511;org.wildfly.core.wildfly-core-model-test-tests;wildfly-core-model-test-tests;реализации модельных тестов.
+1512;org.wildfly.core.wildfly-core-parent;wildfly-core-parent;Родительский POM.
+1513;org.wildfly.core.wildfly-core-security;wildfly-core-security;классы, связанные с безопасностью.
+1514;org.wildfly.core.wildfly-core-security-api;wildfly-core-security-api;API безопасности.
+1515;org.wildfly.core.wildfly-core-security-parent;wildfly-core-security-parent;Родительский элемент безопасности.
+1516;org.wildfly.core.wildfly-core-test-runner;wildfly-core-test-runner;средство запуска системных тестов.
+1517;org.wildfly.core.wildfly-core-testsuite-shared;wildfly-core-testsuite-shared;общая логика тестирования системы.
+1518;org.wildfly.core.wildfly-deployment-repository;wildfly-deployment-repository;обработка репозитория развертывания.
+1519;org.wildfly.core.wildfly-deployment-scanner;wildfly-deployment-scanner;сканер развертывания.
+1520;org.wildfly.core.wildfly-domain-http;wildfly-domain-http;API управления доменом HTTP.
+1521;org.wildfly.core.wildfly-domain-http-error-context;wildfly-domain-http-error-context;обработка ошибок.
+1522;org.wildfly.core.wildfly-domain-http-interface;wildfly-domain-http-interface;HTTP-интерфейсы для домена.
+1523;org.wildfly.core.wildfly-domain-management;wildfly-domain-management;интерфейс управления доменом.
+1524;org.wildfly.core.wildfly-embedded;wildfly-embedded;Функциональность встроенного сервера.
+1525;org.wildfly.core.wildfly-host-controller;wildfly-host-controller;реализация хост-контроллера.
+1526;org.wildfly.core.wildfly-io;wildfly-io;классы, связанные с вводом-выводом.
+1527;org.wildfly.core.wildfly-io-bom;wildfly-io-bom;зависимости ввода-вывода.
+1528;org.wildfly.core.wildfly-io-tests;wildfly-io-tests;тесты ввода-вывода.
+1529;org.wildfly.core.wildfly-jmx;wildfly-jmx;интеграция подсистемы JMX.
+1530;org.wildfly.core.wildfly-launcher;wildfly-launcher;Поддержка запуска сервера.
+1531;org.wildfly.core.wildfly-logging;wildfly-logging;Инициализация ведения журнала.
+1532;org.wildfly.core.wildfly-management-client-content;wildfly-management-client-content;клиент протокола управления.
+1533;org.wildfly.core.wildfly-model-test;wildfly-model-test;Функциональность тестирования базовой модели.
+1534;org.wildfly.core.wildfly-network;wildfly-network;Сетевые библиотеки.
+1535;org.wildfly.core.wildfly-patching;wildfly-patching;установка патча.
+1536;org.wildfly.core.wildfly-platform-mbean;wildfly-platform-mbean;интеграция платформы MBean.
+1537;org.wildfly.core.wildfly-process-controller;wildfly-process-controller;Контроллер процесса.
+1538;org.wildfly.core.wildfly-protocol;wildfly-protocol;протоколы удаленного взаимодействия.
+1539;org.wildfly.core.wildfly-remoting;wildfly-remoting;реализация подсистемы удаленного взаимодействия.
+1540;org.wildfly.core.wildfly-remoting-parent;wildfly-remoting-parent;Родитель для удаленного взаимодействия.
+1541;org.wildfly.core.wildfly-remoting-test;wildfly-remoting-test;тесты удаленного взаимодействия.
+1542;org.wildfly.core.wildfly-request-controller;wildfly-request-controller;контроллер по запросу.
+1543;org.wildfly.core.wildfly-self-contained;wildfly-self-contained;автономный дистрибутив.
+1544;org.wildfly.core.wildfly-server;wildfly-server;Общая реализация сервера.
+1545;org.wildfly.core.wildfly-subsystem-test;wildfly-subsystem-test;интеграционные тесты подсистемы.
+1546;org.wildfly.core.wildfly-subsystem-test-framework;wildfly-subsystem-test-framework;Тестовая среда.
+1547;org.wildfly.core.wildfly-subsystem-test-parent;wildfly-subsystem-test-parent;родительский элемент для тестов подсистемы.
+1548;org.wildfly.core.wildfly-subsystem-test-tests;wildfly-subsystem-test-tests;тестирует реализации.
+1549;org.wildfly.core.wildfly-threads;wildfly-threads;утилиты многопоточности.
+1550;org.wildfly.core.wildfly-version;wildfly-version;классы отчетов о версиях.
+1551;org.wildfly.security.wildfly-elytron;wildfly-elytron;структура безопасности для WildFly
+1552;org.wildfly.security.wildfly-security-manager;wildfly-security-manager;реализация менеджера безопасности
+1553;org.wildfly.wildfly-client-all;wildfly-client-all;комплекты клиентских адаптеров для серверов WildFly.
+1554;org.wildfly.wildfly-clustering;wildfly-clustering;расширение кластеризации для WildFly.
+1555;org.wildfly.wildfly-clustering-infinispan;wildfly-clustering-infinispan;поставщик кластеризации на базе Infinispan
+1556;org.wildfly.wildfly-clustering-infinispan-spi;wildfly-clustering-infinispan-spi;Infinispan SPI для кластеризации
+1557;org.wildfly.wildfly-clustering-marshalling;wildfly-clustering-marshalling;поддержка сортировки для кластеризации
+1558;org.wildfly.wildfly-clustering-service;wildfly-clustering-service;реализация основного сервиса кластеризации
+1559;org.wildfly.wildfly-ee;wildfly-ee;корпоративное расширение для WildFly.
+1560;org.wildfly.wildfly-ejb-client-bom;wildfly-ejb-client-bom;спецификация клиентского адаптера EJB
+1561;org.wildfly.wildfly-iiop-openjdk;wildfly-iiop-openjdk;поддержка IIOP для EJB/CORBA
+1562;org.wildfly.wildfly-jms-client-bom;wildfly-jms-client-bom;спецификация клиентского адаптера JMS
+1563;org.wildfly.wildfly-naming;wildfly-naming;расширение JNDI для WildFly
+1564;org.wildfly.wildfly-parent;wildfly-parent;Родительский POM для WildFly
+1565;org.wildfly.wildfly-security;wildfly-security;Структура безопасности для WildFly
+1566;org.wildfly.wildfly-security-parent;wildfly-security-parent;Родитель для модулей безопасности
+1567;org.wildfly.wildfly-transactions;wildfly-transactions;расширение транзакций для WildFly.
+1568;oro.oro;oro;Утилиты Orond - сопоставление строк, обычное и т. д.
+1569;picocontainer.picocontainer;picocontainer;Инверсия контейнера управления
+1570;plexus.plexus-containers;plexus-containers;контейнеры Plexus
+1571;plexus.plexus-root;plexus-root;базовый Plexus POM
+1572;plexus.plexus-utils;plexus-utils;утилиты общего назначения для Plexus
+1573;pl.pragmatists.JUnitParams;JUnitParams;расширение JUnit для параметризованных тестов.
+1574;pl.project13.maven.git-commit-id-plugin;git-commit-id-plugin;вставляет идентификатор фиксации Git в pom.xml.
+1575;postgresql.postgresql;postgresql;драйвер JDBC PostgreSQL
+1576;slide.slide-webdavlib;slide-webdavlib;реализация протокола WebDAV
+1577;sslext.sslext;sslext;расширения сетевого уровня SSL
+1578;standard.extensions.standard-extensions;standard-extensions;стандартные конфигурации расширений
+1579;stax.stax;stax;потоковый API для обработки XML
+1580;stax.stax-api;stax-api;API парсера StAX
+1581;urbanophile.java-getopt;java-getopt;библиотека анализа командной строки
+1582;velocity.velocity;velocity;механизм шаблонов на основе Java
+1583;velocity.velocity-dep;velocity-dep;зависимости поддержки скорости
+1584;xalan.serializer;serializer;компонент сериализатора из проекта Xalan.
+1585;xalan.xalan;xalan;реализация процессора XSLT
+1586;xerces.xercesImpl;xercesImpl;библиотека анализатора XML от Apache Xerces
+1587;xerces.xmlParserAPIs;xmlParserAPIs;API-интерфейсы DOM, SAX и Traversal от Xerces
+1588;xml-apis.xml-apis;xml-apis;устаревшие API-интерфейсы DOM, SAX и JAXP.
+1589;xml-apis.xml-apis-ext;xml-apis-ext;расширения устаревших XML API.
+1590;xmlpull.xmlpull;xmlpull;анализатор потокового XML для Android
+1591;xmlunit.xmlunit;xmlunit;модульное тестирование вывода XML
+1592;xom.xom;xom;сопоставление объектов XML (родительский проект)
+1593;xpp3.xpp3;xpp3;быстрый анализатор XML для Java
+1594;xpp3.xpp3_min;xpp3_min;минимальная версия XPP3
